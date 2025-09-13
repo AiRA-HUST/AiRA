@@ -30,21 +30,7 @@ We welcome motivated graduate students to join our research team.
 
 - **Master's Research Projects**: Opportunities for thesis-based master's students
 
-<!-- - **PhD Positions**: Full funding available for qualified candidates in AI, machine learning, and computational mechanics
-- **Master's Research Projects**: Opportunities for thesis-based master's students
-- **Research Assistantships**: Funded positions for graduate students working on active research projects -->
-
 {% include section.html %}
-
-<!-- ## Postdoctoral Researchers
-
-We offer competitive postdoctoral positions for recent PhD graduates.
-
-- **Postdoctoral Research Associate**: 2-3 year positions with competitive salary and benefits
-- **Independent Research Opportunities**: Support for developing your own research program
-- **Collaborative Projects**: Work with industry partners and international collaborators
-
-{% include section.html %} -->
 
 ## How to Apply
 
