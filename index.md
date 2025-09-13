@@ -109,7 +109,7 @@ Join our research community! We welcome students and researchers from all backgr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/icon.jpg"
   link="opportunities"
   title="Join Us"
   flip=true
