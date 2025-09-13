@@ -2,6 +2,10 @@
 
 # team member roles
 
+pi:
+  icon: fa-solid fa-microscope
+  description: Principal Investigator
+
 principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
@@ -220,3 +224,33 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+# Additional role icons you might want
+
+research-scientist:
+  icon: fa-solid fa-flask
+  description: Research Scientist
+
+lab-manager:
+  icon: fa-solid fa-clipboard-list
+  description: Lab Manager
+
+visiting-researcher:
+  icon: fa-solid fa-plane
+  description: Visiting Researcher
+
+master-student:
+  icon: fa-solid fa-user-graduate
+  description: Master's Student
+
+research-assistant:
+  icon: fa-solid fa-hands-helping
+  description: Research Assistant
+
+data-scientist:
+  icon: fa-solid fa-chart-bar
+  description: Data Scientist
+
+engineer:
+  icon: fa-solid fa-cogs
+  description: Engineer

@@ -52,3 +52,28 @@ $one: 500px;
 .grid > :where(h1, h2, h3, h4, h5, h6) {
   display: none;
 }
+
+/* Grid layout for team members */
+.grid[data-style="team"] {
+  --repeat: 4;
+  gap: 20px;
+  justify-items: center;
+}
+
+@media (max-width: 1200px) {
+  .grid[data-style="team"] {
+    --repeat: 3;
+  }
+}
+
+@media (max-width: 900px) {
+  .grid[data-style="team"] {
+    --repeat: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .grid[data-style="team"] {
+    --repeat: 1;
+  }
+}

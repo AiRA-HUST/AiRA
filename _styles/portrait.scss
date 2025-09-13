@@ -77,3 +77,59 @@
     display: none;
   }
 }
+
+/* Grid team layout style */
+.portrait[data-style="grid"] {
+  width: 200px;
+  margin: 15px;
+  padding: 20px;
+  background: var(--background);
+  border-radius: var(--rounded);
+  box-shadow: var(--shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.portrait[data-style="grid"]:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.portrait[data-style="grid"] .portrait-image {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 15px auto;
+  border: 3px solid var(--theme);
+}
+
+.portrait[data-style="grid"] .icon {
+  width: 30px;
+  height: 30px;
+  right: 10px;
+  top: 10px;
+  left: unset;
+  transform: none;
+  background: var(--theme);
+  color: white;
+  font-size: 14px;
+}
+
+.portrait[data-style="grid"] .portrait-name {
+  font-size: 16px;
+  margin-bottom: 5px;
+  text-align: center;
+  color: var(--theme);
+}
+
+.portrait[data-style="grid"] .portrait-description {
+  font-size: 14px;
+  text-align: center;
+  color: var(--text-light);
+  margin-bottom: 5px;
+}
+
+.portrait[data-style="grid"] .portrait-affiliation {
+  font-size: 12px;
+  text-align: center;
+  color: var(--text-light);
+  font-style: italic;
+}
