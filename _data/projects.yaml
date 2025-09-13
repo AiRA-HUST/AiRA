@@ -22,10 +22,11 @@
   subtitle: Vision-Language-Action Learning
   image: images/openvla.png
   link: https://doi.org/10.1080/15376494.2021.1986611
-  description: Long short-term memory networks for real-time dynamic simulation of dielectric elastomer actuators, enabling fast and accurate predictions.
+  description: Development of autonomous robotic manipulation strategies that integrate physics-based models with machine learning. The research focuses on dexterous control, adaptability in unstructured environments, and robust handling of flexible or delicate objects, bridging the gap between simulation and real-world deployment.
   tags:
+    - robotics
     - vision-language-action (VLA)
-    - sim2real
+    - sim-to-real
 
 - title: Origami-Inspired Structures
   subtitle: Soft Robotics and Smart Structures
