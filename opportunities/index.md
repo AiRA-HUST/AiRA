@@ -22,8 +22,6 @@ We look forward to welcoming motivated undergraduates to explore our research. S
 - **Origami-Inspired Structure Design** – Harnessing folding geometry for deployable, lightweight, and multifunctional mechanisms.
 - **DNA Origami Nanostructures** – Combining computation and molecular design to create programmable nanoscale systems.
 
-interaction.
-
 {% include section.html %}
 
 ## Graduate Students
@@ -65,7 +63,7 @@ Interested candidates should send the following materials to [airahust@gmail.com
 - **Collaborative Environment**: Join a diverse, supportive research community
 - **Professional Development**: Opportunities for conference presentations, publications, and networking
 - **Mentorship**: Dedicated guidance for your academic and career development
-- **Resources**: Access to high-performance computing, state-of-the-art equipment, and research facilities
+<!-- - **Resources**: Access to high-performance computing, state-of-the-art equipment, and research facilities -->
 
 {% include section.html %}
 
