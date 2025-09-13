@@ -5,7 +5,7 @@
   link: https://doi.org/10.1038/s41563-024-01846-8
   description: A graph neural network approach for predicting DNA origami shapes, enabling rational design of complex nanostructures. Published in Nature Materials.
   tags:
-    - machine learning
+    - graph neural network
     - computational biology
     - publication
 
