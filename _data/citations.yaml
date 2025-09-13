@@ -13,7 +13,7 @@
   orcid: 0000-0001-6219-1322
   plugin: sources.py
   file: sources.yaml
-  image: images/DeepSNUPI.png
+  image: images/DeepSNUPI_.png
 - id: doi:10.1016/j.cma.2024.116825
   title: Adversarial deep energy method for solving saddle point problems involving
     dielectric elastomers
