@@ -50,7 +50,7 @@
   - journal
 - id: doi:10.1007/s12206-021-0932-2
   title: Neural network-based prediction of the long-term time-dependent mechanical
-    behavior of laminated composite plates with arbitrary hygrothermal effects (Second best paper award)
+    behavior of laminated composite plates with arbitrary hygrothermal effects
   authors:
   - Sy-Ngoc Nguyen*
   - Chien Truong-Quoc*
@@ -67,6 +67,7 @@
   image: images/JSMT_2021.png
   tags:
   - journal
+  - second best paper award
 - id: doi:10.1115/1.4033555
   title: Resonance Oscillation of Third-Order Forced van der Pol System With Fractional-Order
     Derivative
@@ -95,7 +96,9 @@
   file: orcid.yaml
   tags:
   - journal
-- title: Design of truly free-form DNA origami nanostructures via generative diffusion model (Best poster award)
+  
+- id: generativSNUPI
+  title: Design of truly free-form DNA origami nanostructures via generative diffusion model
   authors:
   - Kyounghwa Jeon*
   - Chien Truong-Quoc*
@@ -109,3 +112,4 @@
   file: orcid.yaml
   tags:
   - poster
+  - best poster award
