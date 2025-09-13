@@ -13,7 +13,7 @@
   file: orcid.yaml
   image: images/DeepSNUPI.png
   tags:
-  - journal
+  - journal article
 - id: doi:10.1016/j.cma.2024.116825
   title: Adversarial deep energy method for solving saddle point problems involving
     dielectric elastomers
@@ -31,7 +31,7 @@
   file: orcid.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0045782524000811-gr1.jpg
   tags:
-  - journal
+  - journal article
 - id: doi:10.1080/15376494.2021.1986611
   title: A surrogate model for real-time dynamic simulation of dielectric elastomer
     actuators <i>via</i> long short-term memory networks
@@ -47,7 +47,7 @@
   file: orcid.yaml
   image: https://www.tandfonline.com/cms/asset/1ab4b130-028a-4143-b876-46c31291a124/umcm_a_1986611_f0006_c.jpg
   tags:
-  - journal
+  - journal article
 - id: doi:10.1007/s12206-021-0932-2
   title: Neural network-based prediction of the long-term time-dependent mechanical
     behavior of laminated composite plates with arbitrary hygrothermal effects
@@ -66,7 +66,7 @@
   file: orcid.yaml
   image: images/JSMT_2021.png
   tags:
-  - journal
+  - journal article
   - second best paper award
 - id: doi:10.1115/1.4033555
   title: Resonance Oscillation of Third-Order Forced van der Pol System With Fractional-Order
@@ -82,7 +82,7 @@
   plugin: orcid.py
   file: orcid.yaml
   tags:
-  - journal
+  - journal article
 - id: doi:10.1115/1.4032854
   title: Subharmonic Resonance of Duffing Oscillator With Fractional-Order Derivative
   authors:
@@ -95,9 +95,9 @@
   plugin: orcid.py
   file: orcid.yaml
   tags:
-  - journal
+  - journal article
   
--
+- id: generativeSNUPI
   title: Design of truly free-form DNA origami nanostructures via generative diffusion model
   authors:
   - Kyounghwa Jeon*
@@ -111,7 +111,7 @@
   plugin: orcid.py
   file: orcid.yaml
   tags:
-  - poster
+  - conference poster
   - best poster award
   - seeman student travel award
 - title: Learning and predicting DNA structures through graph neural networks
@@ -125,7 +125,7 @@
   plugin: orcid.py
   file: orcid.yaml
   tags:
-  - proceeding
+  - conference proceeding
 - title: Modeling and inverse dynamics of a two-link flexible planar manipulator
   authors:
   - Quang Hoang Nguyen
@@ -138,7 +138,7 @@
   plugin: orcid.py
   file: orcid.yaml
   tags:
-  - proceeding
+  - conference proceeding
 - title: Nonlinear oscillations in third order autonomous duffing system involving fractional order derivatives
   authors:
   - Van Khang Nguyen
@@ -150,7 +150,7 @@
   plugin: orcid.py
   file: orcid.yaml
   tags:
-  - proceeding
+  - conference proceeding
 - title: Resonance oscillation of duffing system with fractional order derivative
   authors:
   - Van Khang Nguyen
@@ -162,4 +162,4 @@
   plugin: orcid.py
   file: orcid.yaml
   tags:
-  - proceeding
+  - conference proceeding
