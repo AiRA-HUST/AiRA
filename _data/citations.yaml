@@ -18,10 +18,11 @@
   title: Adversarial deep energy method for solving saddle point problems involving
     dielectric elastomers
   authors:
-  - Seung-Woo Lee
-  - Chien Truong-Quoc
+  - Seung-Woo Lee*
+  - Chien Truong-Quoc*
   - Youngmin Ro
   - Do-Nyun Kim
+  - (* indicates joint first-authors)
   publisher: Computer Methods in Applied Mechanics and Engineering
   date: '2024-03-01'
   link: https://doi.org/g93hzv
