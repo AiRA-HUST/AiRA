@@ -91,3 +91,28 @@ Our team is driven by passion and curiosity, working together with energy and cr
   title="Our Team"
   text=text
 %}
+
+{% capture text %}
+
+Join our research community! We welcome students and researchers from all backgrounds to contribute to cutting-edge AI research. From undergraduate research programs to postdoctoral positions, we offer diverse opportunities to grow and make meaningful contributions to science.
+
+{%
+  include button.html
+  link="opportunities"
+  text="Explore opportunities"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="opportunities"
+  title="Join Us"
+  flip=true
+  style="bare"
+  text=text
+%}
