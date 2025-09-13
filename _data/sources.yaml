@@ -95,8 +95,7 @@
   file: orcid.yaml
   tags:
   - journal
-- id: poster:dna-origami-generative-diffusion
-  title: Design of truly free-form DNA origami nanostructures via generative diffusion model (Best poster award)
+- title: Design of truly free-form DNA origami nanostructures via generative diffusion model (Best poster award)
   authors:
   - Kyounghwa Jeon*
   - Chien Truong-Quoc*
