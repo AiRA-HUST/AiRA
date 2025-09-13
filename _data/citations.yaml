@@ -96,17 +96,20 @@
   file: sources.yaml
   tags:
   - journal
-- id: poster:dna-origami-generative-diffusion
+  - second best paper award
+-
   title: Design of truly free-form DNA origami nanostructures via generative diffusion model
   authors:
-  - Kyounghwa Jeon
-  - Chien Truong-Quoc
+  - Kyounghwa Jeon*
+  - Chien Truong-Quoc*
   - Chanseok Lee
   - Do-Nyun Kim
+  - (* indicates joint first-authors)
   publisher: Conference Poster
-  date: '2024-01-01'
+  date: '2025-04-28'
   orcid: 0000-0001-6219-1322
   plugin: sources.py
   file: sources.yaml
   tags:
   - poster
+  - best poster award
