@@ -18,32 +18,30 @@
     - deep learning
     - computational mechanics
 
-- title: LSTM Surrogate Models
-  subtitle: Real-time Dynamic Simulation
-  image: images/photo.jpg
+- title: Autonomous Robotic Manipulation
+  subtitle: Vision-Language-Action Learning
+  image: images/openvla.png
   link: https://doi.org/10.1080/15376494.2021.1986611
   description: Long short-term memory networks for real-time dynamic simulation of dielectric elastomer actuators, enabling fast and accurate predictions.
   tags:
-    - neural networks
-    - simulation
-    - publication
+    - vision-language-action (VLA)
+    - sim2real
 
-- title: Neural Network Prediction
-  subtitle: Composite Material Behavior
-  image: images/JSMT_2021.png
-  link: https://doi.org/10.1007/s12206-021-0932-2
-  description: AI-based prediction of long-term time-dependent mechanical behavior of laminated composite plates under hygrothermal effects.
+- title: Origami-Inspired Structures
+  subtitle: Soft Robotics and Smart Structures
+  image: images/OriTech.png
+  description: Design and analysis of origami-inspired structures for adaptive and deployable soft robotic systems. This work explores how geometric principles of folding can be harnessed to achieve lightweight, flexible, and multifunctional mechanisms with applications in vibration control, actuation, and bio-inspired robotics.
   tags:
-    - machine learning
-    - materials science
-    - publication
+    - origami
+    - soft robotics
+    - smart structures
 
-- title: Fractional-Order Dynamics
-  subtitle: Nonlinear Oscillator Analysis
-  image: images/photo.jpg
-  link: https://doi.org/10.1115/1.4033555
-  description: Mathematical modeling and analysis of resonance oscillations in third-order forced van der Pol systems with fractional derivatives.
-  tags:
-    - mathematical modeling
-    - nonlinear dynamics
-    - publication
+# - title: Fractional-Order Dynamics
+#   subtitle: Nonlinear Oscillator Analysis
+#   image: images/photo.jpg
+#   link: https://doi.org/10.1115/1.4033555
+#   description: Mathematical modeling and analysis of resonance oscillations in third-order forced van der Pol systems with fractional derivatives.
+#   tags:
+#     - mathematical modeling
+#     - nonlinear dynamics
+#     - publication
