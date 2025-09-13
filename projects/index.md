@@ -23,4 +23,4 @@ Our projects bridge the gap between fundamental AI research and real-world appli
 
 ## On Going
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" %}
