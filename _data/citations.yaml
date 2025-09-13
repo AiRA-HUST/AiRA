@@ -98,7 +98,8 @@
   file: sources.yaml
   tags:
   - journal article
-- title: Design of truly free-form DNA origami nanostructures via generative diffusion model
+- title: Design of truly free-form DNA origami nanostructures via generative diffusion
+    model
   authors:
   - Kyounghwa Jeon*
   - Chien Truong-Quoc*
@@ -114,6 +115,19 @@
   - conference poster
   - best poster award
   - seeman student travel award
+- title: Graph neural networks for DNA origami shape prediction
+  authors:
+  - Chien Truong-Quoc
+  - Jae Young Lee
+  - Kyung Soo Kim
+  - Do-Nyun Kim
+  publisher: Korean Society of Mechanical Engineers (KSME) Conference
+  date: '2024-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
 - title: Learning and predicting DNA structures through graph neural networks
   authors:
   - Chien Truong-Quoc
@@ -160,19 +174,6 @@
   - Chien Truong-Quoc
   publisher: Vietnamese National Mechanic Conference
   date: '2015-01-01'
-  orcid: 0000-0001-6219-1322
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - conference proceeding
-- title: Graph neural networks for DNA origami shape prediction
-  authors:
-  - Chien Truong-Quoc
-  - Jae Young Lee
-  - Kyung Soo Kim
-  - Do-Nyun Kim
-  publisher: Korean Society of Mechanical Engineers (KSME) Conference
-  date: '2024-01-01'
   orcid: 0000-0001-6219-1322
   plugin: sources.py
   file: sources.yaml
