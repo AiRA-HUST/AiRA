@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projects bridge the gap between fundamental AI research and real-world applications. We develop intelligent systems that can understand, predict, and control complex phenomena across various domains, from molecular design to mechanical systems.
 
 {% include tags.html tags="publication, resource, website" %}
 

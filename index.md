@@ -38,7 +38,7 @@ At AiRA Lab, we turn curiosity into discovery—unveiling the nature of the worl
 
 {%
   include feature.html
-  image=https://www.dropbox.com/scl/fi/ub0hrg03mnxy775v2ocpg/DeepSNUPI_v1.png?rlkey=ffr3ozldpcw2rbqpuokkl1f9w&dl=0
+  image="images/DeepSNUPI.png"
   link="research"
   title="Our Research"
   text=text

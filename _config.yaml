@@ -1,5 +1,5 @@
-# url: "https://AiRA-HUST.github.io"  # no trailing slash
-# baseurl: "/AiRA-Lab"                # leading slash, no trailing slash
+url: "https://aira-hust.github.io"  # no trailing slash
+baseurl: "/AiRA"                     # leading slash, no trailing slash
 
 # site properties and page defaults
 title: AiRA

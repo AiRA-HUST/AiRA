@@ -11,7 +11,7 @@
   orcid: 0000-0001-6219-1322
   plugin: orcid.py
   file: orcid.yaml
-  image: https://www.dropbox.com/scl/fi/hwz0e4jeyc67466tvf28k/DeepSNUPI.png?rlkey=sxizqk4sloqt137cc215s9u60&dl=0
+  image: images/DeepSNUPI.png
 - id: doi:10.1016/j.cma.2024.116825
   title: Adversarial deep energy method for solving saddle point problems involving
     dielectric elastomers
