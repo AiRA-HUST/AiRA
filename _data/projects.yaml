@@ -36,6 +36,15 @@
     - soft robotics
     - smart structures
 
+- title: Soft & Flexible Manipulator
+  subtitle: Compliant Mechanisms for Safe Interaction
+  image: images/S&F_Manipulator.png
+  description: Advancing compliant mechanism design and control to create soft manipulators that adapt to complex environments and perform delicate tasks with safety, precision, and dexterity.
+  tags:
+    - soft robotics
+    - compliant mechanisms
+    - safe interaction
+
 # - title: Fractional-Order Dynamics
 #   subtitle: Nonlinear Oscillator Analysis
 #   image: images/photo.jpg
