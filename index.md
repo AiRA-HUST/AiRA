@@ -69,7 +69,7 @@ At AiRA Lab, our projects serve as bridges between academic research and real-wo
   text=text
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 
 Our team is driven by passion and curiosity, working together with energy and creativity to tackle bold scientific challenges. United by a shared vision, we actively push boundaries to turn ideas into impactful discoveries.
 
@@ -90,7 +90,7 @@ Our team is driven by passion and curiosity, working together with energy and cr
   link="team"
   title="Our Team"
   text=text
-%}
+%} -->
 
 {% capture text %}
 
