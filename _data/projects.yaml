@@ -12,7 +12,7 @@
 - title: ADEM Framework
   subtitle: Adversarial Deep Energy Method
   group: featured
-  image: images/ADEM_v1.png
+  image: images/ADEM_.png
   link: https://doi.org/10.1016/j.cma.2024.116825
   description: Novel computational framework for solving saddle point problems in dielectric elastomers using adversarial training approaches.
   tags:
