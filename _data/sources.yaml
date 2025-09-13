@@ -12,6 +12,8 @@
   plugin: orcid.py
   file: orcid.yaml
   image: images/DeepSNUPI.png
+  tags:
+  - journal
 - id: doi:10.1016/j.cma.2024.116825
   title: Adversarial deep energy method for solving saddle point problems involving
     dielectric elastomers
@@ -28,6 +30,8 @@
   plugin: orcid.py
   file: orcid.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0045782524000811-gr1.jpg
+  tags:
+  - journal
 - id: doi:10.1080/15376494.2021.1986611
   title: A surrogate model for real-time dynamic simulation of dielectric elastomer
     actuators <i>via</i> long short-term memory networks
@@ -42,15 +46,18 @@
   plugin: orcid.py
   file: orcid.yaml
   image: https://www.tandfonline.com/cms/asset/1ab4b130-028a-4143-b876-46c31291a124/umcm_a_1986611_f0006_c.jpg
+  tags:
+  - journal
 - id: doi:10.1007/s12206-021-0932-2
   title: Neural network-based prediction of the long-term time-dependent mechanical
-    behavior of laminated composite plates with arbitrary hygrothermal effects
+    behavior of laminated composite plates with arbitrary hygrothermal effects (Second best paper award)
   authors:
-  - Sy-Ngoc Nguyen
-  - Chien Truong-Quoc
+  - Sy-Ngoc Nguyen*
+  - Chien Truong-Quoc*
   - Jang-woo Han
   - Sunyoung Im
   - Maenghyo Cho
+  - (* indicates joint first-authors)
   publisher: Journal of Mechanical Science and Technology
   date: '2021-10-01'
   link: https://doi.org/g9f8gz
@@ -58,6 +65,8 @@
   plugin: orcid.py
   file: orcid.yaml
   image: images/JSMT_2021.png
+  tags:
+  - journal
 - id: doi:10.1115/1.4033555
   title: Resonance Oscillation of Third-Order Forced van der Pol System With Fractional-Order
     Derivative
@@ -71,6 +80,8 @@
   orcid: 0000-0001-6219-1322
   plugin: orcid.py
   file: orcid.yaml
+  tags:
+  - journal
 - id: doi:10.1115/1.4032854
   title: Subharmonic Resonance of Duffing Oscillator With Fractional-Order Derivative
   authors:
@@ -82,3 +93,20 @@
   orcid: 0000-0001-6219-1322
   plugin: orcid.py
   file: orcid.yaml
+  tags:
+  - journal
+- id: poster:dna-origami-generative-diffusion
+  title: Design of truly free-form DNA origami nanostructures via generative diffusion model (Best poster award)
+  authors:
+  - Kyounghwa Jeon*
+  - Chien Truong-Quoc*
+  - Chanseok Lee
+  - Do-Nyun Kim
+  - (* indicates joint first-authors)
+  publisher: Conference Poster
+  date: '2025-04-28'
+  orcid: 0000-0001-6219-1322
+  plugin: orcid.py
+  file: orcid.yaml
+  tags:
+  - poster
