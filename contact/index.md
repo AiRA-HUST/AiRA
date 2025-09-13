@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Collaboration drives discovery. We welcome inquiries, discussions, and opportunities to build meaningful partnerships in research, teaching, and innovation.
 
 {%
   include button.html
@@ -36,4 +34,5 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include figure.html
   image="images/icon.png"
   caption="AiRA Laboratory"
+  width="200px"
 %}
