@@ -7,7 +7,6 @@
   tags:
     - graph neural network
     - computational biology
-    - publication
 
 - title: ADEM Framework
   subtitle: Adversarial Deep Energy Method
@@ -18,7 +17,6 @@
   tags:
     - deep learning
     - computational mechanics
-    - publication
 
 - title: LSTM Surrogate Models
   subtitle: Real-time Dynamic Simulation
