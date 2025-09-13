@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our projects bridge the gap between fundamental AI research and real-world applications. We develop intelligent systems that can understand, predict, and control complex phenomena across various domains, from molecular design to mechanical systems.
+Our projects bridge the gap between fundamental AI research and real-world applications. We develop intelligent systems that can predict, design and control complex phenomena across various domains, from molecular design to mechanical systems.
 
 {% include tags.html tags="publication, resource, website" %}
 
