@@ -7,14 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At AiRA Lab, we explore the intersection of machine learning, robotics, and computational Science.
+Our research aims to turn fundamental insights into tools and systems that serve real-world needs.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Prediction of DNA origami shape using graph neural network" style="rich" %}
 
 {% include section.html %}
 
