@@ -61,7 +61,7 @@ At AiRA Lab, our projects serve as bridges between academic research and real-wo
 
 {%
   include feature.html
-  image="images/openvla.png"
+  image="images/autonomous.png"
   link="projects"
   title="Our Projects"
   flip=true

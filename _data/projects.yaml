@@ -21,7 +21,7 @@
 - title: Autonomous Robotics
   subtitle: Vision-Language-Action Learning
   image: images/openvla.png
-  description: We advance Vision-Language-Action (VLA) models to make robots smarter, more adaptive, and capable of intuitive interaction—bridging perception, language, and real-world action for the next generation of autonomous robotics.
+  description: Advancing VLA models to make robots smarter, more adaptive, and capable of intuitive interaction—bridging perception, language, and real-world action for the next generation of autonomous robotics.
   tags:
     - robotics
     - vision-language-action
@@ -30,7 +30,7 @@
 - title: Origami-Inspired Structures
   subtitle: Soft Robotics and Smart Structures
   image: images/OriTech.png
-  description: We design and analyze origami-inspired structures that harness folding geometry to create lightweight, flexible, and multifunctional mechanisms for soft robotics, deployable systems, and bio-inspired actuation.
+  description: Origami-inspired structures leverage folding geometry to create lightweight, flexible, and multifunctional mechanisms for soft robotics, deployable systems, and bio-inspired actuation.
   tags:
     - origami
     - soft robotics
