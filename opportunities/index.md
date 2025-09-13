@@ -15,12 +15,14 @@ We have many open opportunities for students interested in artificial intelligen
 
 ## Undergraduates
 
-We look forward to welcoming undergraduates through several programs.
+We look forward to welcoming motivated undergraduates to explore our research. Students can take part in hands-on projects across diverse and exciting areas:
 
-- **Undergraduate Research Program (URP)**: Funding for academic year research
-- **Summer Research Internship**: Funding for summer research projects  
-- **AI/ML Research for Undergraduates**: Undergrad funding for AI and machine learning projects
-- **Computational Science Scholars**: Undergrad funding for computational science projects for semesters and summer research
+- **Autonomous Robotics** – Developing intelligent robots with perception, learning, and adaptive control.
+- **Soft & Flexible Manipulators** – Advancing the design and control of compliant mechanisms for safe and versatile 
+- **Origami-Inspired Structure Design** – Harnessing folding geometry for deployable, lightweight, and multifunctional mechanisms.
+- **DNA Origami Nanostructures** – Combining computation and molecular design to create programmable nanoscale systems.
+
+interaction.
 
 {% include section.html %}
 
@@ -28,13 +30,15 @@ We look forward to welcoming undergraduates through several programs.
 
 We welcome motivated graduate students to join our research team.
 
-- **PhD Positions**: Full funding available for qualified candidates in AI, machine learning, and computational mechanics
 - **Master's Research Projects**: Opportunities for thesis-based master's students
-- **Research Assistantships**: Funded positions for graduate students working on active research projects
+
+<!-- - **PhD Positions**: Full funding available for qualified candidates in AI, machine learning, and computational mechanics
+- **Master's Research Projects**: Opportunities for thesis-based master's students
+- **Research Assistantships**: Funded positions for graduate students working on active research projects -->
 
 {% include section.html %}
 
-## Postdoctoral Researchers
+<!-- ## Postdoctoral Researchers
 
 We offer competitive postdoctoral positions for recent PhD graduates.
 
@@ -42,11 +46,11 @@ We offer competitive postdoctoral positions for recent PhD graduates.
 - **Independent Research Opportunities**: Support for developing your own research program
 - **Collaborative Projects**: Work with industry partners and international collaborators
 
-{% include section.html %}
+{% include section.html %} -->
 
 ## How to Apply
 
-Interested candidates should send the following materials to [contact@aira-lab.com](mailto:contact@aira-lab.com):
+Interested candidates should send the following materials to [airahust@gmail.com](mailto:airahust@gmail.com):
 
 - **Cover Letter**: Describe your research interests and how they align with our lab's mission
 - **CV/Resume**: Include your academic background, research experience, and publications
