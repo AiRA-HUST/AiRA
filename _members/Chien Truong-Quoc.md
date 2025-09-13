@@ -4,7 +4,7 @@ image: "images/ChienTQ.png"
 role: pi
 affiliation: "Hanoi University of Science and Technology"
 aliases:
-  - "TQ Chien"
+  - "Chien Truong-Quoc"
 links:
   google_scholar: "https://scholar.google.com/citations?user=P9yPJnsAAAAJ&hl=en"
   orcid: "https://orcid.org/0000-0001-6219-1322"

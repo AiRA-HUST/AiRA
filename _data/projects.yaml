@@ -24,13 +24,13 @@
   description: Advancing VLA models to make robots smarter, more adaptive, and capable of intuitive interaction—bridging perception, language, and real-world action for the next generation of autonomous robotics.
   tags:
     - robotics
-    - vision-language-action
+    - vla
     - sim-to-real
 
-- title: Origami-Inspired Structures
+- title: Origami-Inspired Designs
   subtitle: Soft Robotics and Smart Structures
   image: images/OriTech.png
-  description: Origami-inspired structures leverage folding geometry to create lightweight, flexible, and multifunctional mechanisms for soft robotics, deployable systems, and bio-inspired actuation.
+  description: Origami-inspired designs leverage folding geometry to create lightweight, flexible, and multifunctional mechanisms for soft robotics, deployable systems, and bio-inspired actuation.
   tags:
     - origami
     - soft robotics
