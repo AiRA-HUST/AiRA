@@ -18,7 +18,7 @@
     - deep learning
     - computational mechanics
 
-- title: Autonomous Robotic Manipulation
+- title: Autonomous Robotics
   subtitle: Vision-Language-Action Learning
   image: images/openvla.png
   link: https://doi.org/10.1080/15376494.2021.1986611
@@ -30,6 +30,7 @@
 - title: Origami-Inspired Structures
   subtitle: Soft Robotics and Smart Structures
   image: images/OriTech.png
+  link: https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/75/5/050801/1155971/Origami-With-Rotational-Symmetry-A-Review-on-Their
   description: Design and analysis of origami-inspired structures for adaptive and deployable soft robotic systems. This work explores how geometric principles of folding can be harnessed to achieve lightweight, flexible, and multifunctional mechanisms with applications in vibration control, actuation, and bio-inspired robotics.
   tags:
     - origami
