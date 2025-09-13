@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Collaboration drives discovery. We welcome inquiries, discussions, and opportunities to build meaningful partnerships in research, teaching, and innovation.
+Collaboration drives discovery, and we believe that the most meaningful scientific advances emerge through open dialogue and shared effort. We welcome inquiries from colleagues, students, and partners who are interested in engaging with our research, discussing new ideas, or exploring opportunities for collaboration. Whether in the realms of fundamental science, applied innovation, or interdisciplinary teaching, we are committed to building strong and lasting partnerships that foster knowledge, creativity, and real-world impact.
 
 {%
   include button.html
@@ -34,5 +34,5 @@ Collaboration drives discovery. We welcome inquiries, discussions, and opportuni
   include figure.html
   image="images/icon.png"
   caption="AiRA Laboratory"
-  width="200px"
+  width="300px"
 %}
