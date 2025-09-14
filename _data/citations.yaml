@@ -114,3 +114,55 @@
   tags:
   - poster
   - best poster award
+  - seeman student travel award
+- title: Learning and predicting DNA structures through graph neural networks
+  authors:
+  - Chien Truong-Quoc
+  - Jae Young Lee
+  - Do-Nyun Kim
+  publisher: Korean Society of Mechanical Engineers (KSME) Conference
+  date: '2023-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - proceeding
+- title: Modeling and inverse dynamics of a two-link flexible planar manipulator
+  authors:
+  - Quang Hoang Nguyen
+  - Chien Truong-Quoc
+  - Dat Dinh Cong
+  - Van Ngoc Than
+  publisher: The 5th Vietnamese National Conference on Mechanical Science and Technology
+  date: '2018-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - proceeding
+- title: Nonlinear oscillations in third order autonomous duffing system involving
+    fractional order derivatives
+  authors:
+  - Van Khang Nguyen
+  - Thuy Bui Thi
+  - Chien Truong-Quoc
+  publisher: The 4th International Conference on Engineering Mechanics and Automation
+    (ICEMA 4)
+  date: '2016-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - proceeding
+- title: Resonance oscillation of duffing system with fractional order derivative
+  authors:
+  - Van Khang Nguyen
+  - Son Tran Dinh
+  - Chien Truong-Quoc
+  publisher: Vietnamese National Mechanic Conference
+  date: '2015-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - proceeding
