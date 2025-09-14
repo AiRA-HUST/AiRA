@@ -118,8 +118,9 @@
 .portrait[data-style=grid] .portrait-description {
   font-size: 14px;
   text-align: center;
-  color: var(--text-light);
-  margin-bottom: 5px;
+  color: var(--theme);
+  margin-bottom: 10px;
+  font-weight: 500;
 }
 
 .portrait[data-style=grid] .portrait-affiliation {
