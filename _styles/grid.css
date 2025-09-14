@@ -42,4 +42,27 @@
   display: none;
 }
 
+/* Grid layout for team members */
+.grid[data-style=team] {
+  --repeat: 4;
+  gap: 20px;
+  justify-items: center;
+}
+
+@media (max-width: 1200px) {
+  .grid[data-style=team] {
+    --repeat: 3;
+  }
+}
+@media (max-width: 900px) {
+  .grid[data-style=team] {
+    --repeat: 2;
+  }
+}
+@media (max-width: 600px) {
+  .grid[data-style=team] {
+    --repeat: 1;
+  }
+}
+
 /*# sourceMappingURL=grid.css.map */
