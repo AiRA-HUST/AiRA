@@ -404,25 +404,27 @@
   <section class="background" data-size="page">
     <div class="float">
   
-<div class="project-image">
-  <img src="/AiRA/images/ADEM_v2.png" alt="ADEM Framework" style="width: 100%; max-width: 400px; border-radius: 8px;">
-</div>
+<div class="project-sidebar" style="text-align: center; margin-bottom: 20px;">
+  <div class="project-image" style="margin-bottom: 15px;">
+    <img src="/AiRA/images/ADEM_v2.png" alt="ADEM Framework" style="width: 100%; max-width: 350px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
 
-<div class="project-info">
   
-    <a href="https://doi.org/10.1016/j.cma.2024.116825" class="button" style="margin: 5px 0;">
-      📄 View Publication
-    </a><br>
+    <div style="margin-bottom: 15px;">
+      <a href="https://doi.org/10.1016/j.cma.2024.116825" class="button" style="display: inline-block; padding: 8px 16px; background: #1976d2; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9em;">
+        📄 View Publication
+      </a>
+    </div>
   
   
   
     <div class="project-tags" style="margin-top: 10px;">
       
-        <span class="tag" style="background: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin: 2px;">
+        <span class="tag" style="display: inline-block; background: #e3f2fd; color: #1565c0; padding: 4px 10px; border-radius: 16px; font-size: 0.75em; margin: 2px 4px; border: 1px solid #bbdefb;">
           deep learning
         </span>
       
-        <span class="tag" style="background: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin: 2px;">
+        <span class="tag" style="display: inline-block; background: #e3f2fd; color: #1565c0; padding: 4px 10px; border-radius: 16px; font-size: 0.75em; margin: 2px 4px; border: 1px solid #bbdefb;">
           computational mechanics
         </span>
       
@@ -434,7 +436,8 @@
 </div>
 
 
-<h2 id="project-overview">Project Overview</h2>
+<div class="project-content" style="line-height: 1.6;">
+  <h2 id="project-overview">Project Overview</h2>
 
 <p>The ADEM (Adversarial Deep Energy Method) Framework represents a novel computational approach for solving complex saddle point problems in dielectric elastomers. By leveraging adversarial training techniques, this framework provides robust solutions for challenging computational mechanics problems.</p>
 
@@ -496,6 +499,61 @@
   <li>Applications in soft robotics and flexible electronics</li>
 </ul>
 
+</div>
+
+<style>
+.project-content h2 {
+  color: #1565c0;
+  border-bottom: 2px solid #e3f2fd;
+  padding-bottom: 8px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.project-content h3 {
+  color: #1976d2;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.project-content ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.project-content li {
+  margin-bottom: 12px;
+  padding-left: 20px;
+  position: relative;
+}
+
+.project-content li::before {
+  content: "▶";
+  color: #1976d2;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.project-content strong {
+  color: #1565c0;
+}
+
+.project-content p {
+  margin-bottom: 16px;
+  text-align: justify;
+}
+
+@media (max-width: 768px) {
+  .project-sidebar {
+    margin-bottom: 30px;
+  }
+  
+  .project-content h2 {
+    font-size: 1.4em;
+  }
+}
+</style>
 
 
   
