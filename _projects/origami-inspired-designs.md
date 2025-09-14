@@ -15,7 +15,7 @@ Our Origami-Inspired Designs project leverages the ancient art of paper folding 
 
 ## Goals
 
-- **Geometric Innovation**: Apply origami folding patterns to engineering design challenges
+- **Geometric Innovation**: From origami patterns to engineering design
 - **Lightweight Structures**: Create high-performance systems with minimal material usage
 - **Deployable Systems**: Develop structures that can transform from compact to expanded configurations
 - **Bio-Inspired Solutions**: Learn from nature's folding mechanisms for engineering applications
