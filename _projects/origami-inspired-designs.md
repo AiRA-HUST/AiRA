@@ -27,20 +27,16 @@ Our Origami-Inspired Designs project leverages the ancient art of paper folding 
 - **Soft Robotics**: Application of origami principles to flexible robotic systems
 - **Deployable Architecture**: Large-scale structures that can be compactly stored and deployed
 
-<!-- ## Team Members
+## Team Members
 
 ### Principal Investigator
-- **Dr. Chien Truong-Quoc** - Project Lead, Theoretical Framework
-
-### Graduate Students
-- Students working on computational origami modeling
-- Researchers developing origami-based actuators
-- Graduate students focusing on bio-inspired mechanisms
+- **Dr. Chien Truong-Quoc** - Hanoi University of Science and Technology (HUST)
+- **Dr. Thao Thai Phuong** - Hanoi University of Science and Technology (HUST)
 
 ### Undergraduate Students
-- Students contributing to prototype development and testing
-- Undergraduate researchers exploring new folding patterns
-- Students working on material characterization -->
+- **Mr. Thu Nguyen Duc** - Hanoi University of Science and Technology (HUST)
+- **Mr. Trung Vuong Thanh** - Hanoi University of Science and Technology (HUST)
+- **Mr. Thinh Nguyen Nhu** - Hanoi University of Science and Technology (HUST)
 
 ## Current Research Directions
 

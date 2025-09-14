@@ -27,17 +27,15 @@ The ADEM (Adversarial Deep Energy Method) Framework represents a novel computati
 - Demonstrated superior performance on challenging saddle point problems
 - Created efficient algorithms for dielectric elastomer simulation
 
-<!-- ## Team Members
+## Team Members
 
 ### Principal Investigator
-- **Dr. Chien Truong-Quoc** - Co-Lead, Algorithm Development
-
-### Co-Principal Investigator
-- **Dr. Seung-Woo Lee** - Co-Lead, Theoretical Framework
+- **Prof. Do-Nyun Kim** - Applications and Validation
 
 ### Collaborators
-- **Dr. Youngmin Ro** - Computational Implementation
-- **Dr. Do-Nyun Kim** - Applications and Validation -->
+- **Dr. Seung-Woo Lee** - Co-Lead, Algorithm Development
+- **Dr. Chien Truong-Quoc** - Co-Lead, Theoretical Framework
+- **Prof. Youngmin Ro** - Computational Implementation
 
 ### Students
 - Graduate students working on extensions and applications of the ADEM framework

@@ -30,17 +30,10 @@ The Soft & Flexible Manipulator project focuses on advancing compliant mechanism
 ## Team Members
 
 ### Principal Investigator
-- **Dr. Chien Truong-Quoc** - Project Lead, System Integration
-
-<!-- ### Graduate Students
-- Students working on compliant mechanism design
-- Researchers developing soft actuation systems
-- Graduate students focusing on control algorithms -->
+- **Dr. Chien Truong-Quoc** - Hanoi University of Science and Technology (HUST)
 
 ### Undergraduate Students
-- Students contributing to prototype fabrication and testing
-- Undergraduate researchers working on sensor integration
-- Students exploring new materials for soft robotics
+- **Mr. Giap Nguyen Trong** - Hanoi University of Science and Technology (HUST)
 
 ## Current Research Focus
 

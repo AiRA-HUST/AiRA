@@ -29,13 +29,14 @@ DeepSNUPI represents a breakthrough in computational biology, utilizing graph ne
 
 ## Team Members
 
-<!-- ### Principal Investigator
-- **Dr. Chien Truong-Quoc** - Project Lead, Algorithm Development
+### Principal Investigator
+- **Prof. Do-Nyun Kim** - Seoul National University
 
 ### Collaborators
-- **Dr. Jae Young Lee** - Seoul National University
-- **Dr. Kyung Soo Kim** - Seoul National University  
-- **Dr. Do-Nyun Kim** - Seoul National University -->
+- **Dr. Chien Truong-Quoc** - Co-Lead, Algorithm Development
+- **Dr. Jae Young Lee** - Co-Lead, Algorithm Development
+- **Dr. Kyung Soo Kim** - Experimental validation 
+
 
 ### Students
 - Graduate students and undergraduate researchers contributing to ongoing developments

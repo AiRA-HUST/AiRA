@@ -30,16 +30,17 @@ Our Autonomous Robotics project focuses on advancing Vision-Language-Action (VLA
 ## Team Members
 
 ### Principal Investigator
-- **Dr. Chien Truong-Quoc** - Project Lead, AI Integration
-
-### Graduate Students
-- Research assistants working on VLA model development
-- Students focusing on sim-to-real transfer techniques
-- Researchers developing human-robot interaction systems
+- **Dr. Chien Truong-Quoc** - Hanoi University of Science and Technology (HUST)
+- **Dr. Minh-Tuan Nguyen-Thai** - Hanoi University of Science and Technology (HUST)
 
 ### Undergraduate Students
-- Students contributing to data collection and experimental validation
-- Undergraduate researchers working on specific robot capabilities
+- **Mr. Hieu Nguyen Van** - Hanoi University of Science and Technology (HUST)
+- **Mr. Long Pham Ba** - Hanoi University of Science and Technology (HUST)
+- **Mr. Thuong Tran Ngoc** - Hanoi University of Science and Technology (HUST)
+- **Mr. Minh Vuong Duc** - Hanoi University of Science and Technology (HUST)
+- **Mr. Quoc Dong Anh** - Hanoi University of Science and Technology (HUST)
+- **Mr. Dat Le Tien** - Hanoi University of Science and Technology (HUST)
+- **Mr. Truong An Van** - Hanoi University of Science and Technology (HUST)
 
 ## Current Focus Areas
 

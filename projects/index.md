@@ -33,6 +33,7 @@ Our projects bridge the gap between fundamental AI research and real-world appli
     link=project.link 
     description=project.description 
     tags=project.tags 
+    style="large"
   %}
 {% endfor %}
 {% endcapture %}
