@@ -23,4 +23,18 @@ Our projects bridge the gap between fundamental AI research and real-world appli
 
 ## On Going
 
-{% include list.html component="card" data="projects" filter="!group" %}
+{% assign ongoing_projects = site.data.projects | where_exp: "project", "project.group != 'featured'" %}
+{% capture ongoing_content %}
+{% for project in ongoing_projects %}
+  {% include card.html 
+    title=project.title 
+    subtitle=project.subtitle 
+    image=project.image 
+    link=project.link 
+    description=project.description 
+    tags=project.tags 
+  %}
+{% endfor %}
+{% endcapture %}
+
+{% include grid.html content=ongoing_content %}
