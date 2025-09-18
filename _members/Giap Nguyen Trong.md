@@ -1,6 +1,6 @@
 ---
 name: "Giap Nguyen Trong"
-image: "images/photo.jpg"
+image: "_members/GiapNT.jpg"
 role: undergrad
 affiliation: "Department of Mechatronics, School of Mechanical Engineering, Hanoi University of Science and Technology"
 aliases:
