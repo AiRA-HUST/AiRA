@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>PINN in Computational Science | AiRA</title>
+
+<link rel="icon" href="/AiRA/images/icon.png">
+
+<meta name="title" content="PINN in Computational Science">
+<meta name="description" content="Artificial Intelligence for Reasoning &amp;amp; Action. Illuminating nature’s principles through AI — for intelligent design and control.">
+
+<meta property="og:title" content="PINN in Computational Science">
+<meta property="og:site_title" content="AiRA">
+<meta property="og:description" content="Artificial Intelligence for Reasoning &amp;amp; Action. Illuminating nature’s principles through AI — for intelligent design and control.">
+<meta property="og:url" content="https://aira-hust.github.io/AiRA">
+<meta property="og:image" content="">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="PINN in Computational Science">
+<meta property="twitter:description" content="Artificial Intelligence for Reasoning &amp;amp; Action. Illuminating nature’s principles through AI — for intelligent design and control.">
+<meta property="twitter:url" content="https://aira-hust.github.io/AiRA">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "PINN in Computational Science",
+    "description": "Artificial Intelligence for Reasoning &amp;amp; Action. Illuminating nature’s principles through AI — for intelligent design and control.",
+    "headline": "PINN in Computational Science",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/AiRA/images/icon.png" }
+    },
+    "url": "https://aira-hust.github.io/AiRA"
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="https://aira-hust.github.io/AiRA/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link href="/AiRA/_styles/-theme.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/alert.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/all.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/anchor.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/background.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/body.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/bold.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/button.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/card.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/checkbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/citation.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/code.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/details.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/feature.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/figure.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/float.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/font.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/footer.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/form.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/grid.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/header.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/heading.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/highlight.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/icon.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/image.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/link.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/list.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/main.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/paragraph.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/portrait.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/post-excerpt.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/post-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/post-nav.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/quote.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/rule.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/search-box.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/search-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/section.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/table.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/tags.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/textbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/tooltip.css" rel="stylesheet">
+  
+
+  
+    <link href="/AiRA/_styles/util.css" rel="stylesheet">
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/AiRA/_scripts/anchors.js"></script>
+
+  <script src="/AiRA/_scripts/dark-mode.js"></script>
+
+  <script src="/AiRA/_scripts/fetch-tags.js"></script>
+
+  <script src="/AiRA/_scripts/search.js"></script>
+
+  <script src="/AiRA/_scripts/site-search.js"></script>
+
+  <script src="/AiRA/_scripts/table-wrap.js"></script>
+
+  <script src="/AiRA/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header class="background" style="--image: url('/AiRA/images/background.jpg')" data-dark="true">
+  <a href="/AiRA/" class="home">
+    
+      <span class="logo">
+        
+          <img src="/AiRA/images/icon.png" alt="logo">
+        
+      </span>
+    
+    
+      <span class="title-text" data-tooltip="Home">
+        
+          <span class="title">AiRA</span>
+        
+        
+          <span class="subtitle">Artificial Intelligence for Reasoning &amp; Action</span>
+        
+      </span>
+    
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a href="/AiRA/research/" data-tooltip="Published works">
+          Research
+        </a>
+      
+    
+      
+        <a href="/AiRA/projects/" data-tooltip="Software, datasets, and more">
+          Projects
+        </a>
+      
+    
+      
+        <a href="/AiRA/team/" data-tooltip="About our team">
+          Team
+        </a>
+      
+    
+      
+        <a href="/AiRA/opportunities/" data-tooltip="Join our research team">
+          Opportunities
+        </a>
+      
+    
+      
+        <a href="/AiRA/contact/" data-tooltip="Email, address, and location">
+          Contact
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - filter out blank sections
+-->
+
+
+
+
+
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <div class="float" data-flip>
+  
+<div class="project-image">
+  <img src="/AiRA/images/pinn.png" alt="PINN in Computational Science" style="width: 100%; max-width: 400px; border-radius: 8px;">
+</div>
+
+<div class="project-info">
+  
+  
+  
+    <div class="project-tags" style="margin-top: 10px;">
+      
+        <span class="tag" style="background: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin: 2px;">
+          physics-informed neural networks
+        </span>
+      
+        <span class="tag" style="background: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin: 2px;">
+          scientific computing
+        </span>
+      
+        <span class="tag" style="background: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin: 2px;">
+          computational physics
+        </span>
+      
+        <span class="tag" style="background: #e1f5fe; color: #01579b; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin: 2px;">
+          machine learning
+        </span>
+      
+    </div>
+  
+</div>
+
+
+</div>
+
+
+<h2 id="project-overview">Project Overview</h2>
+
+<p>Physics-Informed Neural Networks (PINNs) represent a groundbreaking approach that integrates deep learning with physical laws to solve complex partial differential equations (PDEs) in computational science. This project focuses on developing and applying PINN methodologies to tackle challenging problems in various scientific domains where traditional numerical methods face limitations.</p>
+
+<h2 id="goals">Goals</h2>
+
+<ul>
+  <li>
+<strong>Scientific Computing Innovation</strong>: Develop advanced PINN architectures for solving complex PDEs in physics and engineering</li>
+  <li>
+<strong>Multi-Physics Integration</strong>: Create unified frameworks for coupled multi-physics problems using physics-informed approaches</li>
+  <li>
+<strong>Real-Time Simulation</strong>: Enable fast and accurate real-time simulations for scientific applications</li>
+  <li>
+<strong>Inverse Problem Solving</strong>: Apply PINNs to parameter identification and inverse problems in scientific computing</li>
+  <li>
+<strong>Uncertainty Quantification</strong>: Incorporate uncertainty quantification in physics-informed neural network predictions</li>
+</ul>
+
+<h2 id="key-research-areas">Key Research Areas</h2>
+
+<h3 id="forward-problem-solving">Forward Problem Solving</h3>
+<ul>
+  <li>Heat transfer and fluid dynamics simulations</li>
+  <li>Structural mechanics and elasticity problems</li>
+  <li>Electromagnetic field computations</li>
+  <li>Quantum mechanics and molecular dynamics</li>
+</ul>
+
+<h3 id="inverse-problem-applications">Inverse Problem Applications</h3>
+<ul>
+  <li>Parameter estimation in physical systems</li>
+  <li>Material property identification</li>
+  <li>Boundary condition reconstruction</li>
+  <li>Source term identification in PDEs</li>
+</ul>
+
+<h3 id="advanced-pinn-architectures">Advanced PINN Architectures</h3>
+<ul>
+  <li>Multi-scale PINN for problems with disparate scales</li>
+  <li>Adaptive PINN with dynamic loss weighting</li>
+  <li>Domain decomposition methods for large-scale problems</li>
+  <li>Transfer learning for related physical systems</li>
+</ul>
+
+<h2 id="technical-approach">Technical Approach</h2>
+
+<h3 id="neural-network-architecture">Neural Network Architecture</h3>
+<ul>
+  <li>Deep feedforward networks with physics-informed loss functions</li>
+  <li>Residual connections for improved gradient flow</li>
+  <li>Adaptive activation functions for better approximation capabilities</li>
+  <li>Multi-task learning for coupled physics problems</li>
+</ul>
+
+<h3 id="loss-function-design">Loss Function Design</h3>
+<ul>
+  <li>Physics-informed loss combining data and physics constraints</li>
+  <li>Adaptive weighting strategies for multiple loss terms</li>
+  <li>Penalty methods for enforcing boundary conditions</li>
+  <li>Regularization techniques for improved generalization</li>
+</ul>
+
+<h3 id="training-strategies">Training Strategies</h3>
+<ul>
+  <li>Progressive training with curriculum learning</li>
+  <li>Multi-objective optimization techniques</li>
+  <li>Advanced optimization algorithms (L-BFGS, Adam variants)</li>
+  <li>Transfer learning from related physical problems</li>
+</ul>
+
+<h2 id="applications">Applications</h2>
+
+<h3 id="computational-fluid-dynamics">Computational Fluid Dynamics</h3>
+<ul>
+  <li>Incompressible and compressible flow simulations</li>
+  <li>Turbulence modeling with physics constraints</li>
+  <li>Heat and mass transfer problems</li>
+  <li>Multi-phase flow applications</li>
+</ul>
+
+<h3 id="structural-analysis">Structural Analysis</h3>
+<ul>
+  <li>Linear and nonlinear elasticity problems</li>
+  <li>Dynamic analysis and wave propagation</li>
+  <li>Fracture mechanics and damage modeling</li>
+  <li>Composite material analysis</li>
+</ul>
+
+<h3 id="electromagnetics">Electromagnetics</h3>
+<ul>
+  <li>Maxwell’s equations in various media</li>
+  <li>Antenna design and optimization</li>
+  <li>Electromagnetic compatibility analysis</li>
+  <li>Optical wave propagation</li>
+</ul>
+
+<h3 id="computational-biology">Computational Biology</h3>
+<ul>
+  <li>Reaction-diffusion systems in biological processes</li>
+  <li>Biomechanics and tissue modeling</li>
+  <li>Drug delivery and pharmacokinetics</li>
+  <li>Population dynamics modeling</li>
+</ul>
+
+<h2 id="expected-outcomes">Expected Outcomes</h2>
+
+<h3 id="research-contributions">Research Contributions</h3>
+<ul>
+  <li>Novel PINN architectures for scientific computing applications</li>
+  <li>Improved training methodologies for physics-informed networks</li>
+  <li>Comprehensive benchmarking against traditional numerical methods</li>
+  <li>Open-source software tools for PINN development</li>
+</ul>
+
+<h3 id="publications-and-dissemination">Publications and Dissemination</h3>
+<ul>
+  <li>High-impact journal publications in computational science and machine learning</li>
+  <li>Conference presentations at major scientific computing venues</li>
+  <li>Open-source code repositories and tutorials</li>
+  <li>Collaboration with experimental researchers for validation</li>
+</ul>
+
+<h3 id="practical-impact">Practical Impact</h3>
+<ul>
+  <li>Faster and more accurate simulations for industrial applications</li>
+  <li>Reduced computational costs for complex multi-physics problems</li>
+  <li>Enhanced capabilities for inverse problem solving</li>
+  <li>Tools for uncertainty quantification in scientific simulations</li>
+</ul>
+
+<h2 id="team-composition">Team Composition</h2>
+
+<h3 id="principal-investigators">Principal Investigators</h3>
+<ul>
+  <li>
+<strong>Dr. [PI Name]</strong> - Lead researcher specializing in computational physics and machine learning</li>
+  <li>
+<strong>Dr. [Co-PI Name]</strong> - Expert in numerical methods and scientific computing</li>
+</ul>
+
+<h3 id="research-team">Research Team</h3>
+<ul>
+  <li>
+<strong>Graduate Students</strong> - PhD and MS students working on specific PINN applications</li>
+  <li>
+<strong>Postdoctoral Researchers</strong> - Advanced researchers developing novel methodologies</li>
+  <li>
+<strong>Undergraduate Researchers</strong> - Contributing to software development and validation studies</li>
+</ul>
+
+<h3 id="collaborators">Collaborators</h3>
+<ul>
+  <li>
+<strong>Computational Scientists</strong> - Domain experts providing application-specific knowledge</li>
+  <li>
+<strong>Industry Partners</strong> - Companies interested in applying PINN technologies</li>
+  <li>
+<strong>International Researchers</strong> - Global collaboration on PINN methodologies</li>
+</ul>
+
+<h2 id="timeline-and-milestones">Timeline and Milestones</h2>
+
+<h3 id="year-1-foundation-development">Year 1: Foundation Development</h3>
+<ul>
+  <li>Literature review and gap analysis</li>
+  <li>Basic PINN implementation and validation</li>
+  <li>Initial application to benchmark problems</li>
+  <li>Team recruitment and training</li>
+</ul>
+
+<h3 id="year-2-methodology-enhancement">Year 2: Methodology Enhancement</h3>
+<ul>
+  <li>Advanced PINN architectures development</li>
+  <li>Multi-physics problem formulations</li>
+  <li>Inverse problem applications</li>
+  <li>Software framework development</li>
+</ul>
+
+<h3 id="year-3-applications-and-validation">Year 3: Applications and Validation</h3>
+<ul>
+  <li>Large-scale application development</li>
+  <li>Experimental validation studies</li>
+  <li>Performance benchmarking</li>
+  <li>Publication and dissemination</li>
+</ul>
+
+<h2 id="funding-and-resources">Funding and Resources</h2>
+
+<h3 id="computational-resources">Computational Resources</h3>
+<ul>
+  <li>High-performance computing clusters for training large PINN models</li>
+  <li>GPU resources for accelerated neural network computations</li>
+  <li>Cloud computing platforms for collaborative development</li>
+  <li>Specialized software licenses for scientific computing</li>
+</ul>
+
+<h3 id="equipment-and-infrastructure">Equipment and Infrastructure</h3>
+<ul>
+  <li>Workstations for algorithm development</li>
+  <li>Experimental facilities for validation studies</li>
+  <li>Laboratory equipment for generating training data</li>
+  <li>Meeting and collaboration spaces</li>
+</ul>
+
+<h2 id="future-directions">Future Directions</h2>
+
+<h3 id="methodological-advances">Methodological Advances</h3>
+<ul>
+  <li>Integration with other machine learning paradigms</li>
+  <li>Quantum-enhanced physics-informed neural networks</li>
+  <li>Neuromorphic computing implementations</li>
+  <li>Explainable AI for physics-informed models</li>
+</ul>
+
+<h3 id="application-expansion">Application Expansion</h3>
+<ul>
+  <li>Climate modeling and environmental sciences</li>
+  <li>Materials science and nanotechnology</li>
+  <li>Biomedical engineering applications</li>
+  <li>Energy systems and sustainability</li>
+</ul>
+
+<h3 id="technology-transfer">Technology Transfer</h3>
+<ul>
+  <li>Industrial partnerships for practical applications</li>
+  <li>Startup development for commercialization</li>
+  <li>Educational programs and curriculum development</li>
+  <li>Policy implications and regulatory considerations</li>
+</ul>
+
+<h2 id="impact-and-significance">Impact and Significance</h2>
+
+<p>This PINN in Computational Science project aims to revolutionize how we approach complex physical simulations by combining the power of deep learning with fundamental physical principles. The research will contribute to advancing both the theoretical understanding of physics-informed neural networks and their practical applications across multiple scientific domains.</p>
+
+<p>The project’s interdisciplinary nature, combining physics, mathematics, computer science, and engineering, positions it to make significant contributions to the growing field of scientific machine learning and AI for science applications.</p>
+
+
+
+  
+
+  <p class="center">
+    <a href="/AiRA/research/?search=%22PINN%20in%20Computational%20Science%22">
+      🔍 Search for PINN in Computational Science related papers on the Research page
+    </a>
+  </p>
+  </section>
+
+
+    </main>
+    
+
+
+<footer class="background" style="--image: url('/AiRA/images/background.jpg')" data-dark="true" data-size="wide">
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:contact@your-lab.com" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://orcid.org/0000-0001-6219-1322" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
+      <i class="icon fa-brands fa-orcid"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://scholar.google.com/citations?user=P9yPJnsAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    © 2025
+    AiRA
+      |   Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+</footer>
+
+  </body>
+</html>
