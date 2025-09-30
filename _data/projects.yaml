@@ -47,6 +47,18 @@
     - soft robotics
     - compliant mechanisms
 
+- title: PINN in Computational Science
+  subtitle: Physics-Informed Neural Networks for Scientific Computing
+  group: featured
+  image: images/pinn.png
+  link: projects/pinn-computational-science
+  description: Revolutionary approach integrating deep learning with physical laws to solve complex PDEs in computational science, enabling faster simulations and enhanced capabilities for inverse problems.
+  tags:
+    - physics-informed neural networks
+    - scientific computing
+    - computational physics
+    - machine learning
+
 # - title: Fractional-Order Dynamics
 #   subtitle: Nonlinear Oscillator Analysis
 #   image: images/photo.jpg
