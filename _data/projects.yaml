@@ -54,7 +54,6 @@
   description: Revolutionary approach integrating deep learning with physical laws to solve complex PDEs in computational science, enabling faster simulations and enhanced capabilities for inverse problems.
   tags:
     - physics-informed neural networks
-    - scientific computing
     - computational physics
     - machine learning
 
