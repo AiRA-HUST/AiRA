@@ -11,14 +11,31 @@ At the AiRA Lab, we believe that great research begins with respect and collabor
 
 {% include section.html %}
 
-<!-- All Team Members in One Row -->
-{% capture all_members_content %}
+## Principal Investigator
+
+{% capture pi_content %}
 {% for member in site.members %}
-  {% include portrait.html lookup=member.slug style="grid" %}
+  {% if member.role == "pi" %}
+    {% include portrait.html lookup=member.slug style="grid" %}
+  {% endif %}
 {% endfor %}
 {% endcapture %}
 
-{% include grid.html content=all_members_content style="team" %}
+{% include grid.html content=pi_content style="team" %}
+
+{% include section.html %}
+
+## Research Students
+
+{% capture students_content %}
+{% for member in site.members %}
+  {% if member.role == "undergrad" %}
+    {% include portrait.html lookup=member.slug style="grid" %}
+  {% endif %}
+{% endfor %}
+{% endcapture %}
+
+{% include grid.html content=students_content style="team" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
