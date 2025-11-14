@@ -11,6 +11,6 @@ links:
   email: "duc.vm226290@sis.hust.edu.vn"
 ---
 
-Duc Vu Minh is an undergraduate student in the Department of Mechatronics at the School of Mechanical Engineering, Hanoi University of Science and Technology. He is an active member of the AiRA Laboratory, where he contributes to cutting-edge research projects that integrate artificial intelligence with mechanical engineering systems.
+Duc Vu Minh is an undergraduate student in the Department of Mechatronics at the School of Mechanical Engineering, Hanoi University of Science and Technology. He is an active member of the AiRA Laboratory, where he specializes in robotic arm development and autonomous action learning systems.
 
-His research interests include robotics, machine learning applications in engineering, and intelligent control systems. As part of the AiRA team, Duc is involved in developing innovative solutions that bridge the gap between theoretical AI concepts and practical engineering applications, particularly in the areas of autonomous systems and smart manufacturing.
+His research focuses on building intelligent robotic manipulators and developing training methodologies for autonomous robotic actions. As part of the AiRA team, Duc is involved in designing and constructing robotic arm systems, implementing machine learning algorithms for motion planning, and developing training frameworks that enable robot arms to learn complex manipulation tasks autonomously. His work encompasses both the mechanical design of robotic systems and the AI algorithms that teach them to perform sophisticated actions independently.
