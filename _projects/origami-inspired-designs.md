@@ -13,6 +13,8 @@ tags:
 
 Our Origami-Inspired Designs project leverages the ancient art of paper folding to create innovative engineering solutions. By harnessing folding geometry principles, we develop lightweight, flexible, and multifunctional mechanisms for soft robotics, deployable systems, and bio-inspired actuation.
 
+{% include figure.html image="images/icema25_origami.jfif" caption="Recent origami-inspired design concepts presented at ICEMA-25 Conference, VNU Hanoi" %}
+
 ## Goals
 
 - **Geometric Innovation**: From origami patterns to engineering design
