@@ -34,13 +34,13 @@ Our Autonomous Robotics project focuses on advancing Vision-Language-Action (VLA
 - **Dr. Minh-Tuan Nguyen-Thai** - Hanoi University of Science and Technology (HUST)
 
 ### Undergraduate Students
-- **Mr. Hieu Nguyen Van** - Hanoi University of Science and Technology (HUST)
+- **Mr. Anh Nguyen Van** - Hanoi University of Science and Technology (HUST)
 - **Mr. Long Pham Ba** - Hanoi University of Science and Technology (HUST)
 - **Mr. Thuong Tran Ngoc** - Hanoi University of Science and Technology (HUST)
 - **Mr. Minh Vuong Duc** - Hanoi University of Science and Technology (HUST)
 - **Mr. Quoc Dong Anh** - Hanoi University of Science and Technology (HUST)
 - **Mr. Dat Le Tien** - Hanoi University of Science and Technology (HUST)
-- **Mr. Truong An Van** - Hanoi University of Science and Technology (HUST)
+- **Mr. Duc Vu Minh** - Hanoi University of Science and Technology (HUST)
 
 ## Current Focus Areas
 
