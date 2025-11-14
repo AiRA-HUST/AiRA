@@ -19,7 +19,7 @@ We look forward to welcoming motivated undergraduates to explore our research. S
 
 - **Autonomous Robotics** – Developing intelligent robots with perception, learning, and adaptive control.
 - **Soft & Flexible Manipulators** – Advancing the design and control of compliant mechanisms for safe and versatile 
-- **Origami-Inspired Structure Design** – Harnessing folding geometry for deployable, lightweight, and multifunctional mechanisms.
+- **[Origami-Inspired Structure Design](https://www.dropbox.com/scl/fi/8i8ea4rhn0klrk0jrmp73/Call4Applications.pdf?rlkey=d3ns259hzgcyfog77o5n8cbl7&dl=0)** – Harnessing folding geometry for deployable, lightweight, and multifunctional mechanisms.
 - **DNA Origami Nanostructures** – Combining computation and molecular design to create programmable nanoscale systems.
 
 {% include section.html %}
