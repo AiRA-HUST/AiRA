@@ -13,8 +13,6 @@ tags:
 
 Our Origami-Inspired Designs project leverages the ancient art of paper folding to create innovative engineering solutions. By harnessing folding geometry principles, we develop lightweight, flexible, and multifunctional mechanisms for soft robotics, deployable systems, and bio-inspired actuation.
 
-{% include figure.html image="images/icema25_origami.jfif" caption="Recent origami-inspired design concepts presented at ICEMA-25 Conference, VNU Hanoi" %}
-
 ## Goals
 
 - **Geometric Innovation**: From origami patterns to engineering design
@@ -46,6 +44,22 @@ Our Origami-Inspired Designs project leverages the ancient art of paper folding 
 - **Material Integration**: Combining smart materials with origami structures
 - **Actuation Systems**: Developing origami-based motors and actuators
 - **Scalability Studies**: From micro-scale to macro-scale origami applications
+
+## Recent Activities
+
+### Conference Presentations
+
+Our team actively presents research findings at international conferences, showcasing the latest developments in origami-inspired engineering solutions.
+
+{% include figure.html image="images/icema25_origami.jfif" caption="Origami-inspired design concepts presented at ICEMA-25 Conference, VNU Hanoi (November 2025)" %}
+
+**ICEMA-25 Conference Highlights:**
+- Presented "Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework"
+- Demonstrated novel computational approaches to origami structural analysis
+- Showcased applications in deployable systems and smart structures
+
+{% include figure.html image="images/icema25_cud.jfif" caption="Computational design methodologies for origami structures presented at ICEMA-25" %}
+
 
 ## Applications
 
