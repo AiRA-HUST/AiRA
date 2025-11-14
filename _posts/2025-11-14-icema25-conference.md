@@ -2,16 +2,18 @@
 title: AiRA Lab Presents at ICEMA-25 Conference
 image: images/icema25_origami.jfif
 author: aira-lab
-tags: conference, research, origami, computational-design
+tags: conference, research, origami, flexible-systems, control-theory, dynamic-analysis, segway, kresling-origami
 ---
 
 We are excited to announce that AiRA Lab is presenting our latest research at the **International Conference on Engineering Mechanics and Applications (ICEMA-25)**, held at **Vietnam National University (VNU), Hanoi** on **November 14, 2025**.
 
-Our team is showcasing cutting-edge work in computational mechanics and AI-driven design, including:
+Our team is presenting three research papers showcasing cutting-edge work in computational mechanics and dynamic systems:
 
-- **Origami-Inspired Structural Design**: Novel approaches to creating deployable and adaptive structures using computational origami principles
-- **AI for Mechanical Systems**: Machine learning applications in predicting and optimizing mechanical behavior
-- **Computational Design Methods**: Advanced algorithms for automated design optimization
+1. **Modeling of the Flexible Inverted Pendulum via Pseudo-Rigid-Body (PRB)**: Advanced modeling techniques for flexible mechanical systems using pseudo-rigid-body approaches
+
+2. **Exploring PD Control Effects on the Basins of Attraction in Segway Dynamics**: Investigation of proportional-derivative control strategies and their impact on dynamic stability regions
+
+3. **Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework**: Comprehensive analysis of origami structures under dynamic loading using novel energy-based modeling
 
 {% include figure.html image="images/icema25_cud.jfif" caption="Computational design research presented at ICEMA-25" %}
 
