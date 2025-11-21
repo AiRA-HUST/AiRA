@@ -1,0 +1,181 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1038/s41563-024-01846-8
+  title: Prediction of DNA origami shape using graph neural network
+  authors:
+  - Chien Truong-Quoc
+  - Jae Young Lee
+  - Kyung Soo Kim
+  - Do-Nyun Kim
+  publisher: Nature Materials
+  date: '2024-03-14'
+  link: https://doi.org/gt7rcd
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  image: images/DeepSNUPI.png
+  tags:
+  - journal article
+- id: doi:10.1016/j.cma.2024.116825
+  title: Adversarial deep energy method for solving saddle point problems involving
+    dielectric elastomers
+  authors:
+  - Seung-Woo Lee*
+  - Chien Truong-Quoc*
+  - Youngmin Ro
+  - Do-Nyun Kim
+  - (* indicates joint first-authors)
+  publisher: Computer Methods in Applied Mechanics and Engineering
+  date: '2024-03-01'
+  link: https://doi.org/g93hzv
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045782524000811-gr1.jpg
+  tags:
+  - journal article
+- id: doi:10.1080/15376494.2021.1986611
+  title: A surrogate model for real-time dynamic simulation of dielectric elastomer
+    actuators <i>via</i> long short-term memory networks
+  authors:
+  - Chien Truong-Quoc
+  - Sunyoung Im
+  - Maenghyo Cho
+  publisher: Mechanics of Advanced Materials and Structures
+  date: '2021-11-04'
+  link: https://doi.org/g93hzw
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.tandfonline.com/cms/asset/1ab4b130-028a-4143-b876-46c31291a124/umcm_a_1986611_f0006_c.jpg
+  tags:
+  - journal article
+- id: doi:10.1007/s12206-021-0932-2
+  title: Neural network-based prediction of the long-term time-dependent mechanical
+    behavior of laminated composite plates with arbitrary hygrothermal effects
+  authors:
+  - Sy-Ngoc Nguyen*
+  - Chien Truong-Quoc*
+  - Jang-woo Han
+  - Sunyoung Im
+  - Maenghyo Cho
+  - (* indicates joint first-authors)
+  publisher: Journal of Mechanical Science and Technology
+  date: '2021-10-01'
+  link: https://doi.org/g9f8gz
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  image: images/JSMT_2021.png
+  tags:
+  - journal article
+  - second best paper award
+- id: doi:10.1115/1.4033555
+  title: Resonance Oscillation of Third-Order Forced van der Pol System With Fractional-Order
+    Derivative
+  authors:
+  - Nguyen Van Khang
+  - Bui Thi Thuy
+  - Truong Quoc Chien
+  publisher: Journal of Computational and Nonlinear Dynamics
+  date: '2016-05-24'
+  link: https://doi.org/f839n9
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - journal article
+- id: doi:10.1115/1.4032854
+  title: Subharmonic Resonance of Duffing Oscillator With Fractional-Order Derivative
+  authors:
+  - Nguyen Van Khang
+  - Truong Quoc Chien
+  publisher: Journal of Computational and Nonlinear Dynamics
+  date: '2016-05-12'
+  link: https://doi.org/f82zwz
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - journal article
+- title: Design of truly free-form DNA origami nanostructures via generative diffusion
+    model
+  authors:
+  - Kyounghwa Jeon*
+  - Chien Truong-Quoc*
+  - Chanseok Lee
+  - Do-Nyun Kim
+  - (* indicates joint first-authors)
+  publisher: Conference Poster
+  date: '2025-04-28'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference poster
+  - best poster award
+  - seeman student travel award
+- title: Graph neural networks for DNA origami shape prediction
+  authors:
+  - Chien Truong-Quoc
+  - Jae Young Lee
+  - Kyung Soo Kim
+  - Do-Nyun Kim
+  publisher: Korean Society of Mechanical Engineers (KSME) Conference
+  date: '2024-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+- title: Learning and predicting DNA structures through graph neural networks
+  authors:
+  - Chien Truong-Quoc
+  - Jae Young Lee
+  - Do-Nyun Kim
+  publisher: Korean Society of Mechanical Engineers (KSME) Conference
+  date: '2023-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+- title: Modeling and inverse dynamics of a two-link flexible planar manipulator
+  authors:
+  - Quang Hoang Nguyen
+  - Chien Truong-Quoc
+  - Dat Dinh Cong
+  - Van Ngoc Than
+  publisher: The 5th Vietnamese National Conference on Mechanical Science and Technology
+  date: '2018-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+- title: Nonlinear oscillations in third order autonomous duffing system involving
+    fractional order derivatives
+  authors:
+  - Van Khang Nguyen
+  - Thuy Bui Thi
+  - Chien Truong-Quoc
+  publisher: The 4th International Conference on Engineering Mechanics and Automation
+    (ICEMA 4)
+  date: '2016-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+- title: Resonance oscillation of duffing system with fractional order derivative
+  authors:
+  - Van Khang Nguyen
+  - Son Tran Dinh
+  - Chien Truong-Quoc
+  publisher: Vietnamese National Mechanic Conference
+  date: '2015-01-01'
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
