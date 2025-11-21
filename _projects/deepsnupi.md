@@ -45,6 +45,10 @@ DeepSNUPI represents a breakthrough in computational biology, utilizing graph ne
 
 - Truong-Quoc, C., Lee, J.Y., Kim, K.S., Kim, D.N. "Prediction of DNA origami shape using graph neural network." *Nature Materials* (2024). [DOI: 10.1038/s41563-024-01846-8](https://doi.org/10.1038/s41563-024-01846-8)
 
+## Patents
+
+- Kim, D.N., Truong-Quoc, C., Lee, J.Y. "Device and method for predicting DNA origami structure." U.S. Patent Application No. 20250246267 (2025). [Patent Link](https://patents.justia.com/patent/20250246267)
+
 ## Future Directions
 
 - Extension to more complex DNA origami architectures
