@@ -41,35 +41,3 @@ Our projects bridge the gap between fundamental AI research and real-world appli
 {% include grid.html content=ongoing_content %}
 
 {% include section.html %}
-
-## Recent Activities
-
-Stay updated with our latest project developments, conference presentations, and research milestones. Our team actively participates in international conferences and collaborates with research institutions worldwide.
-
-### Conference Presentations
-- **ICEMA-25 Conference** (November 2025) - Presented research on origami dynamics, flexible systems modeling, and control theory at Vietnam National University, Hanoi
-- **International Symposium on Computational Mechanics** - Showcasing AI-driven approaches to mechanical system design
-
-### Research Milestones
-- Advanced modeling frameworks for flexible robotic systems
-- Novel origami-inspired structural designs for deployable applications
-- Integration of machine learning with traditional mechanical engineering approaches
-
-{% include section.html %}
-
-## Publications & Resources
-
-Our research contributes to the scientific community through peer-reviewed publications, open-source software, and educational resources.
-
-### Recent Publications
-{% include list.html data="citations" component="citation" style="rich" filter="tags.to_s.include?('project')" %}
-
-### Open Source Projects
-- Computational tools for origami design and simulation
-- Machine learning frameworks for robotic control
-- Educational resources for AI in mechanical engineering
-
-### Datasets & Resources
-- Origami folding pattern databases
-- Flexible system dynamics datasets
-- Benchmark problems for AI-driven control systems
