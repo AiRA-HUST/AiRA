@@ -13,6 +13,8 @@ tags:
 
 Our Autonomous Robotics project focuses on advancing Vision-Language-Action (VLA) models to create smarter, more adaptive robots capable of intuitive interaction. This research bridges perception, language understanding, and real-world action for the next generation of autonomous robotics systems.
 
+*Image reference: RT-2 (Robotics Transformer 2) - Vision-Language-Action Models. Google DeepMind. [https://robotics-transformer2.github.io/](https://robotics-transformer2.github.io/)*
+
 ## Goals
 
 - **Intelligent Perception**: Develop advanced computer vision systems for robot environmental understanding

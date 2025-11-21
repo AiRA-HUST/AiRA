@@ -21,6 +21,6 @@ The conference brings together researchers, engineers, and industry professional
 
 This presentation represents our ongoing commitment to bridging fundamental research with practical applications, demonstrating how AI and computational methods can revolutionize traditional engineering approaches.
 
-{% include figure.html image="images/icema25_origami.jfif" caption="Origami-inspired design concepts showcased at the conference" %}
+{% include figure.html image="images/icema25_origami.jfif" caption="Origami team at the conference" %}
 
 We look forward to engaging with the international research community and exploring new collaborative opportunities that emerge from this prestigious conference.

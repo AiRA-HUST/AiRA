@@ -57,6 +57,17 @@
     - computational physics
     - machine learning
 
+- title: AI for Single-Cell and Spatial Transcriptomics
+  subtitle: Machine Learning for Advanced Cellular Analysis
+  image: images/MedAI.png
+  link: projects/medical-ai-applications
+  description: Developing AI methods for automated single-cell annotation and spatial transcriptomics analysis to understand cancer heterogeneity, drug-tolerant persister cells, and therapeutic resistance.
+  tags:
+    - single-cell analysis
+    - spatial transcriptomics
+    - deep learning
+    - cancer biology
+
 # - title: Fractional-Order Dynamics
 #   subtitle: Nonlinear Oscillator Analysis
 #   image: images/photo.jpg
