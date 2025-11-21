@@ -1,6 +1,7 @@
 ---
 name: "Anh Nguyen Viet"
-image: "images/DucVM.jpg"
+slug: anh-nguyen-viet
+image: "images/AnhNV.jpg"
 role: undergrad
 affiliation: "Department of Mechatronics, School of Mechanical Engineering, Hanoi University of Science and Technology"
 aliases:

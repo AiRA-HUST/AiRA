@@ -1,6 +1,6 @@
 ---
 title: AiRA Lab Presents at ICEMA-25 Conference
-image: images/icema25_origami.jfif
+image: images/icema25_cud.jfif
 author: aira-lab
 tags: conference, research, origami, flexible-systems, control-theory, dynamic-analysis, segway, kresling-origami
 ---
@@ -15,7 +15,7 @@ Our team is presenting three research papers showcasing cutting-edge work in com
 
 3. **Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework**: Comprehensive analysis of origami structures under dynamic loading using novel energy-based modeling
 
-{% include figure.html image="images/icema25_cud.jfif" caption="Computational design research presented at ICEMA-25" %}
+{% include figure.html image="images/icema25_cud.jfif" caption="Research presented at ICEMA-25" %}
 
 The conference brings together researchers, engineers, and industry professionals to discuss the latest advances in engineering mechanics, computational methods, and their applications across various fields.
 

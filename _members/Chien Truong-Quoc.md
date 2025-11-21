@@ -1,5 +1,6 @@
 ---
 name: "Chien Truong-Quoc"
+slug: chien-truong-quoc
 image: "images/ChienTQ.png"
 role: pi
 affiliation: "Department of Mechatronics, School of Mechanical Engineering, Hanoi University of Science and Technology"
