@@ -25,6 +25,8 @@ At the AiRA Lab, we believe that great research begins with respect and collabor
 
 {% capture students_content %}
 {% include portrait.html lookup="anh-nguyen-viet" style="grid" %}
+{% include portrait.html lookup="nguyen-dinh-hai" style="grid" %}
+{% include portrait.html lookup="nguyen-minh-tuong" style="grid" %}
 {% include portrait.html lookup="duc-vu-minh" style="grid" %}
 {% include portrait.html lookup="giap-nguyen-trong" style="grid" %}
 {% endcapture %}
