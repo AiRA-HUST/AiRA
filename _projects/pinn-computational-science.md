@@ -31,6 +31,7 @@ Physics-Informed Neural Networks (PINNs) represent a revolutionary approach that
 
 ### Principal Investigator
 - **Dr. Chien Truong-Quoc** - Hanoi University of Science and Technology (HUST)
+- **Dr. Sy-Ngoc Nguyen** - HCMC University of Technology (HCMUT)
 
 ### Students
 - Graduate and undergraduate students working on PINN applications and algorithm development

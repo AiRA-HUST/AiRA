@@ -37,6 +37,7 @@ Our Origami-Inspired Designs project leverages the ancient art of paper folding 
 - **Mr. Thu Nguyen Duc** - Hanoi University of Science and Technology (HUST)
 - **Mr. Trung Vuong Thanh** - Hanoi University of Science and Technology (HUST)
 - **Mr. Thinh Nguyen Nhu** - Hanoi University of Science and Technology (HUST)
+- **Mr. Quan Nguyen Hoang** - Hanoi University of Science and Technology (HUST)
 
 ## Current Research Directions
 
