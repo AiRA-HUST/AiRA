@@ -127,6 +127,53 @@
   - conference poster
   - best poster award
   - seeman student travel award
+- id: doi:10.15625/vap.2026.0008
+  title: High-Fidelity Modeling of the Flexible Inverted Pendulum via Pseudo-Rigid-Body
+    (PRB)
+  authors:
+  - Giap Nguyen Trong
+  - Chien Truong-Quoc
+  - Hoang Nguyen Quang
+  publisher: The 8th International Conference on Engineering Mechanics and Automation
+    (ICEMA 2025)
+  date: '2025-11-14'
+  link: https://doi.org/10.15625/vap.2026.0008
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+  - icema25
+- id: doi:10.15625/vap.2026.0011
+  title: Exploring PD Control Effects on the Basins of Attraction in Segway Dynamics
+  authors:
+  - Vu Le Nguyen Ngoc
+  - Chien Truong-Quoc
+  - Minh-Tuan Nguyen-Thai
+  publisher: The 8th International Conference on Engineering Mechanics and Automation
+    (ICEMA 2025)
+  date: '2025-11-14'
+  link: https://doi.org/10.15625/vap.2026.0011
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+  - icema25
+- id: doi:10.15625/vap.2026.0031
+  title: Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter
+    Energy Framework
+  authors:
+  - Thinh Nguyen Nhu
+  - Chien Truong-Quoc
+  - Thai Phuong Thao
+  publisher: The 8th International Conference on Engineering Mechanics and Automation
+    (ICEMA 2025)
+  date: '2025-11-14'
+  link: https://doi.org/10.15625/vap.2026.0031
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+  - icema25
 - title: Graph neural networks for DNA origami shape prediction
   authors:
   - Chien Truong-Quoc
