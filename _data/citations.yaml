@@ -1,21 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s41563-024-01846-8
-  title: Prediction of DNA origami shape using graph neural network
+- id: doi:10.48550/arXiv.2601.10725
+  title: Multi-Agent Formation Navigation Using Diffusion-Based Trajectory Generation
   authors:
+  - Hieu Do Quang
   - Chien Truong-Quoc
-  - Jae Young Lee
-  - Kyung Soo Kim
-  - Do-Nyun Kim
-  publisher: Nature Materials
-  date: '2024-03-14'
-  link: https://doi.org/gt7rcd
+  - Quoc Van Tran
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hbzrcx
   orcid: 0000-0001-6219-1322
-  plugin: sources.py
-  file: sources.yaml
-  image: images/DeepSNUPI.png
-  tags:
-  - journal article
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cma.2024.116825
   title: Adversarial deep energy method for solving saddle point problems involving
     dielectric elastomers
@@ -32,6 +28,22 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0045782524000811-gr1.jpg
+  tags:
+  - journal article
+- id: doi:10.1038/s41563-024-01846-8
+  title: Prediction of DNA origami shape using graph neural network
+  authors:
+  - Chien Truong-Quoc
+  - Jae Young Lee
+  - Kyung Soo Kim
+  - Do-Nyun Kim
+  publisher: Nature Materials
+  date: '2024-03-14'
+  link: https://doi.org/gt7rcd
+  orcid: 0000-0001-6219-1322
+  plugin: sources.py
+  file: sources.yaml
+  image: images/DeepSNUPI.png
   tags:
   - journal article
 - id: doi:10.1080/15376494.2021.1986611
