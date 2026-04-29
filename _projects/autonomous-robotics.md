@@ -69,23 +69,36 @@ Our research is deployed on a diverse set of platforms:
 
 ### Student Members
 
-- Nguyễn Minh Tường  
-- Nguyễn Đình Hải  
-- Nguyễn Trọng Giáp  
-- Vũ Minh Đức  
-- Nguyễn Việt Anh  
-- Đồng Anh Quốc  
-- Phạm Bá Long  
-- Trần Ngọc Thưởng  
-- Vương Đức Minh  
-- Phạm Ngọc Khánh  
-- Đinh Bảo Sơn  
-- Lê Anh Đức  
-- Nguyễn Hải Đăng  
-- Trần Bình Minh  
-- Lê Nguyễn Ngọc Vũ  
-- Đặng Tuấn Anh  
+{% capture col1 %}
+- Nguyễn Minh Tường
+- Nguyễn Đình Hải
+- Nguyễn Trọng Giáp
+- Vũ Minh Đức
+{% endcapture %}
+
+{% capture col2 %}
+- Nguyễn Việt Anh
+- Đồng Anh Quốc
+- Phạm Bá Long
+- Trần Ngọc Thưởng
+{% endcapture %}
+
+{% capture col3 %}
+- Vương Đức Minh
+- Phạm Ngọc Khánh
+- Đinh Bảo Sơn
+- Lê Anh Đức
+{% endcapture %}
+
+{% capture col4 %}
+- Nguyễn Hải Đăng
+- Trần Bình Minh
+- Lê Nguyễn Ngọc Vũ
+- Đặng Tuấn Anh
 - Lê Tiến Đạt
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
 
 ## Publications
 
