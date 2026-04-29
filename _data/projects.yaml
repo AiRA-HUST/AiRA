@@ -19,12 +19,12 @@
     - computational mechanics
 
 - title: Trustworthy embodied intelligence
-  subtitle: Vision-Language-Action Learning
+  subtitle: Safe, Reliable, and Adaptive Robotics
   image: images/openvla_.png
   source: https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/
   source_label: "Image source: Google DeepMind - RT-2"
   link: projects/autonomous-robotics
-  description: Advancing VLA models to make robots smarter, more adaptive, and capable of intuitive interaction—bridging perception, language, and real-world action for the next generation of autonomous robotics.
+  description: Building trustworthy embodied intelligence by unifying perception, planning, control, and safety verification so robots can operate robustly in real-world, uncertain environments.
   tags:
     - robotics
     - vla

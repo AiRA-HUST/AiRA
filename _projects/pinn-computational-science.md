@@ -13,6 +13,8 @@ tags:
 
 Physics-Informed Neural Networks (PINNs) represent a revolutionary approach that integrates deep learning with physical laws to solve complex partial differential equations (PDEs) in computational science. This project focuses on developing advanced PINN methodologies for challenging problems where traditional numerical methods face limitations.
 
+*Image reference: Adapted from Karniadakis, G. E., Kevrekidis, I. G., Lu, L., Perdikaris, P., Wang, S., & Yang, L. "Physics-informed machine learning." Nature Reviews Physics 3, 422-440 (2021). [https://www.nature.com/articles/s42254-021-00314-5](https://www.nature.com/articles/s42254-021-00314-5)*
+
 ## Goals
 
 - **Scientific Computing Innovation**: Develop advanced PINN architectures for solving complex PDEs in physics and engineering

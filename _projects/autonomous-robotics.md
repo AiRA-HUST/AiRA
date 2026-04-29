@@ -12,10 +12,10 @@ tags:
 
 ## Project Overview
 
-The AI-Robotics project aims to build **trustworthy embodied intelligence** for real-world robotic systems.  
-Our long-term vision is a unified framework in which perception, language, control, and safety are jointly designed so that robots can operate reliably in complex and uncertain environments.
+This project develops **trustworthy embodied intelligence** for real-world robotics, with safety, robustness, and reliability as first-class design goals.  
+Instead of optimizing only for task completion, we build systems that can reason, act, and recover under uncertainty while respecting explicit safety constraints.
 
-We focus on integrating **robotic foundation models**, **learning-enhanced safe control**, and **formal verification** across multiple robotic platforms in the lab.
+Our framework combines **robotic foundation models**, **learning-enhanced safe control**, and **formal verification** so that perception, decision-making, and low-level control are aligned in a single dependable stack.
 
 ![AI-Robotics Kickoff](../images/AIR_kickoff.jpg)
 
@@ -41,7 +41,7 @@ These tracks jointly support our long-term goal of **Trustworthy Embodied Genera
 
 ## Key Research Areas
 
-- **Vision-Language-Action & Multimodal Models**: Integration of vision, language, and action for unified robot intelligence  
+- **Embodied Intelligence Models**: Multimodal perception and policy learning for generalizable robot behaviour  
 - **Learning-Enhanced Safe Control**: Combining classical control with learning-based components under safety constraints  
 - **Sim-to-Real & Cross-Embodiment Transfer**: Policies that generalize across different robot platforms and environments  
 - **World Models & Long-Horizon Planning**: Modeling dynamics and semantics to support predictive, explainable behaviour  
