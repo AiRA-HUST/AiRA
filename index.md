@@ -36,7 +36,7 @@ At AiRA Lab, we turn curiosity into discovery—unveiling the nature of the worl
 
 At AiRA Lab, our projects serve as bridges between academic research and real-world applications—transforming ideas into innovations that benefit both life and industry.
 
-*Image reference: Adapted from Google DeepMind RT-2. [https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)*
+*Image: adapted from [RT-2](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/).*
 
 {%
   include button.html
