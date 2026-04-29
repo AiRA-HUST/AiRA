@@ -61,6 +61,14 @@ Our team actively presents research findings at international conferences, showc
 
 {% include figure.html image="images/icema25_cud.jfif" caption="Computational design methodologies for origami structures presented at ICEMA-25" %}
 
+## Publications
+
+- Nhu, T. N., Truong-Quoc, C., & Thai Phuong, T. (2025). **Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0031](https://doi.org/10.15625/vap.2026.0031)
+
+## Funding
+
+- **AI-Driven Design of Kresling Origami for Practical Applications** - Supported by **ASAHI GLASS FOUNDATION (2026)**.
+
 
 ## Applications
 

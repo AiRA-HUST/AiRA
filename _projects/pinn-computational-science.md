@@ -52,3 +52,7 @@ Physics-Informed Neural Networks (PINNs) represent a revolutionary approach that
 - Integration with experimental validation and real-world applications
 - Applications in climate modeling, materials science, and energy systems
 - Collaboration with industry partners for practical implementations
+
+## Funding
+
+- **NAFOSTED Project (2026-2028)**: *Tích hợp mạng nơ-ron vật lý với lý thuyết tiên tiến để cải thiện phân tích kết cấu composite đa lớp*. (Principal Investigator: Dr. Nguyễn Sỹ Ngọc)

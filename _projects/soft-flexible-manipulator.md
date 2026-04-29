@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Soft & Flexible Manipulator"
+title: "Soft & Flexible Robotics"
 subtitle: "Compliant Mechanisms for Safe Interaction"
 image: "images/S&F_Manipulator.png"
 tags:
@@ -11,7 +11,7 @@ tags:
 
 ## Project Overview
 
-The Soft & Flexible Manipulator project focuses on advancing compliant mechanism design and control to create soft manipulators that adapt to complex environments and perform delicate tasks with safety, precision, and dexterity. This research addresses the growing need for robots that can safely interact with humans and handle fragile objects.
+The Soft & Flexible Robotics project focuses on advancing compliant mechanism design and control to create soft manipulators that adapt to complex environments and perform delicate tasks with safety, precision, and dexterity. This research addresses the growing need for robots that can safely interact with humans and handle fragile objects.
 
 ## Goals
 
@@ -62,3 +62,11 @@ The Soft & Flexible Manipulator project focuses on advancing compliant mechanism
 - Development of self-healing and self-repairing soft materials
 - Scaling up for industrial applications
 - Miniaturization for micro-manipulation tasks
+
+## Publications
+
+- Trong, G. N., Truong-Quoc, C., & Nguyen Quang, H. (2025). **High-Fidelity Modeling of the Flexible Inverted Pendulum via Pseudo-Rigid-Body (PRB)**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0008](https://doi.org/10.15625/vap.2026.0008)
+
+## Funding
+
+- **Mô hình hóa và điều khiển các cơ cấu, robot liên tục dựa trên trí tuệ nhân tạo** - Supported by **Hanoi University of Science and Technology (2026-2027)**.

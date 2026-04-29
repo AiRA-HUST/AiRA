@@ -86,3 +86,7 @@ Our research is deployed on a diverse set of platforms:
 - Lê Nguyễn Ngọc Vũ  
 - Đặng Tuấn Anh  
 - Lê Tiến Đạt
+
+## Publications
+
+- Ngoc, V. L. N., Truong-Quoc, C., & Nguyen-Thai, M.-T. (2025). **Exploring PD Control Effects on the Basins of Attraction in Segway Dynamics**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0011](https://doi.org/10.15625/vap.2026.0011)

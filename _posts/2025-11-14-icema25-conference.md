@@ -7,13 +7,15 @@ tags: conference, research, origami, flexible-systems, control-theory, dynamic-a
 
 We are excited to announce that AiRA Lab is presenting our latest research at the **International Conference on Engineering Mechanics and Applications (ICEMA-25)**, held at **Vietnam National University (VNU), Hanoi** on **November 14, 2025**.
 
-Our team is presenting three research papers showcasing cutting-edge work in computational mechanics and dynamic systems:
+Our team presented three research papers showcasing cutting-edge work in computational mechanics and dynamic systems.
 
-1. **Modeling of the Flexible Inverted Pendulum via Pseudo-Rigid-Body (PRB)**: Advanced modeling techniques for flexible mechanical systems using pseudo-rigid-body approaches
+## Publications at ICEMA-25
 
-2. **Exploring PD Control Effects on the Basins of Attraction in Segway Dynamics**: Investigation of proportional-derivative control strategies and their impact on dynamic stability regions
+1. Trong, G. N., Truong-Quoc, C., & Nguyen Quang, H. (2025). **High-Fidelity Modeling of the Flexible Inverted Pendulum via Pseudo-Rigid-Body (PRB)**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0008](https://doi.org/10.15625/vap.2026.0008)
 
-3. **Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework**: Comprehensive analysis of origami structures under dynamic loading using novel energy-based modeling
+2. Ngoc, V. L. N., Truong-Quoc, C., & Nguyen-Thai, M.-T. (2025). **Exploring PD Control Effects on the Basins of Attraction in Segway Dynamics**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0011](https://doi.org/10.15625/vap.2026.0011)
+
+3. Nhu, T. N., Truong-Quoc, C., & Thai Phuong, T. (2025). **Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0031](https://doi.org/10.15625/vap.2026.0031)
 
 {% include figure.html image="images/icema25_cud.jfif" caption="Research presented at ICEMA-25" %}
 
