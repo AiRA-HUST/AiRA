@@ -35,6 +35,7 @@ Physics-Informed Neural Networks (PINNs) represent a revolutionary approach that
 
 ### Students
 - Graduate and undergraduate students working on PINN applications and algorithm development
+- **Nguyễn Như Thịnh** - Hanoi University of Science and Technology
 
 ## Applications
 

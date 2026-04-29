@@ -62,6 +62,8 @@ Our methods are particularly focused on understanding cancer heterogeneity and t
 
 ### Students
 - Graduate and undergraduate students specializing in computational biology, bioinformatics, and machine learning
+- **Nguyễn Quốc Hải Đăng** - ML, CV -> AI Agent for Single-Cell Annotation
+- **Đoàn Hải Long** - ML, Bioinformatics -> AI Agent for Single-Cell Annotation, spann
 
 ## Future Directions
 
@@ -77,4 +79,3 @@ Research findings are published in leading bioinformatics and computational biol
 ## Contact
 
 For collaboration opportunities or research inquiries, please contact the AiRA Laboratory at Hanoi University of Science and Technology.
-

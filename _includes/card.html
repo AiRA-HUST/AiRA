@@ -43,5 +43,13 @@
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}
+
+    {% if include.source %}
+      <p class="card-source">
+        <a href="{{ include.source | xml_escape }}" target="_blank" rel="noopener noreferrer">
+          {{ include.source_label | default: "Image source" }}
+        </a>
+      </p>
+    {% endif %}
   </div>
 </div>

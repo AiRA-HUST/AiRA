@@ -21,6 +21,8 @@
 - title: Autonomous Robotics
   subtitle: Vision-Language-Action Learning
   image: images/openvla_.png
+  source: https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/
+  source_label: "Image source: Google DeepMind - RT-2"
   link: projects/autonomous-robotics
   description: Advancing VLA models to make robots smarter, more adaptive, and capable of intuitive interaction—bridging perception, language, and real-world action for the next generation of autonomous robotics.
   tags:
@@ -50,6 +52,8 @@
 - title: PINN in Computational Science
   subtitle: Physics-Informed Neural Networks for Scientific Computing
   image: images/pinn.png
+  source: https://www.nature.com/articles/s42254-021-00314-5
+  source_label: "Image source: Nature Reviews Physics (2021)"
   link: projects/pinn-computational-science
   description: Revolutionary approach integrating deep learning with physical laws to solve complex PDEs in computational science, enabling faster simulations and enhanced capabilities for inverse problems.
   tags:

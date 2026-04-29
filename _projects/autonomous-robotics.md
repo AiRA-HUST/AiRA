@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "AI-Robotics"
+title: "Trustworthy embodied intelligence"
 subtitle: "Trustworthy Embodied General Intelligence"
 image: "images/AIR Master Plan.png"
 tags:
@@ -86,4 +86,3 @@ Our research is deployed on a diverse set of platforms:
 - Lê Nguyễn Ngọc Vũ  
 - Đặng Tuấn Anh  
 - Lê Tiến Đạt
-
