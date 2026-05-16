@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Origami-Inspired Designs"
+title: "Origami-Inspired Technology"
 subtitle: "Soft Robotics and Smart Structures"
 image: "images/OriTech.png"
 tags:
@@ -11,7 +11,7 @@ tags:
 
 ## Project Overview
 
-Our Origami-Inspired Designs project leverages the ancient art of paper folding to create innovative engineering solutions. By harnessing folding geometry principles, we develop lightweight, flexible, and multifunctional mechanisms for soft robotics, deployable systems, and bio-inspired actuation.
+Our Origami-Inspired Technology project leverages the ancient art of paper folding to create innovative engineering solutions. By harnessing folding geometry principles, we develop lightweight, flexible, and multifunctional mechanisms for soft robotics, deployable systems, and bio-inspired actuation.
 
 ## Goals
 
