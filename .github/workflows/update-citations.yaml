@@ -20,6 +20,7 @@ permissions:
 
 env:
   FORCE_COLOR: true
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
 
 jobs:
@@ -44,8 +45,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
-          cache-dependency-path: "**/requirements.txt"
 
       - name: Install Python packages
         if: github.event.action != 'closed'
