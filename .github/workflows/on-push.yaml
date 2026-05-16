@@ -13,6 +13,10 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: on-push-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-citations:
     # skip first run because nothing enabled or setup yet
