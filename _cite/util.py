@@ -12,6 +12,17 @@ from rich import print
 from diskcache import Cache
 
 
+def _str_representer(dumper, data):
+    # Ruby's Psych (used by Jekyll) rejects ': ' inside plain scalars.
+    # Force double-quote style for any string containing ': '.
+    if ": " in data:
+        return dumper.represent_scalar("tag:yaml.org,2002:str", data, style='"')
+    return dumper.represent_scalar("tag:yaml.org,2002:str", data)
+
+
+yaml.add_representer(str, _str_representer)
+
+
 # cache for time-consuming network requests
 cache = Cache("./_cite/.cache")
 
