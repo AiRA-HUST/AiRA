@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.2139/ssrn.6721329
+  title: "A Comprehensive Analysis of Global Dynamics and Bifurcation of a Kresling\
+    \ Origami Structure\u200B"
+  authors:
+  - Minh-Tuan Nguyen-Thai
+  - Thinh Nguyen Nhu
+  - Ngoc-Vu Le-Nguyen
+  - Chien Truong-Quoc
+  - Thao  Phuong Thai
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hb4kwx
+  orcid: 0000-0001-6219-1322
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arXiv.2601.10725
   title: Multi-Agent Formation Navigation Using Diffusion-Based Trajectory Generation
   authors:
@@ -138,11 +153,11 @@
     (ICEMA 2025)
   date: '2025-11-14'
   link: https://doi.org/10.15625/vap.2026.0008
-  plugin: sources.py
-  file: sources.yaml
   tags:
   - conference proceeding
   - icema25
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.15625/vap.2026.0011
   title: Exploring PD Control Effects on the Basins of Attraction in Segway Dynamics
   authors:
@@ -153,14 +168,14 @@
     (ICEMA 2025)
   date: '2025-11-14'
   link: https://doi.org/10.15625/vap.2026.0011
-  plugin: sources.py
-  file: sources.yaml
   tags:
   - conference proceeding
   - icema25
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.15625/vap.2026.0031
-  title: Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter
-    Energy Framework
+  title: 'Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter
+    Energy Framework'
   authors:
   - Thinh Nguyen Nhu
   - Chien Truong-Quoc
@@ -169,11 +184,11 @@
     (ICEMA 2025)
   date: '2025-11-14'
   link: https://doi.org/10.15625/vap.2026.0031
-  plugin: sources.py
-  file: sources.yaml
   tags:
   - conference proceeding
   - icema25
+  plugin: sources.py
+  file: sources.yaml
 - title: Graph neural networks for DNA origami shape prediction
   authors:
   - Chien Truong-Quoc
