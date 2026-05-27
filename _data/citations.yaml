@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-026-73578-z
+  title: De novo design of DNA origami with a generative diffusion model
+  authors:
+  - Chien Truong-Quoc
+  - Kyounghwa Jeon
+  - Jinho Kim
+  - Seo Hyun Kwon
+  - Dongsik Seo
+  - Chanseok Lee
+  - Do-Nyun Kim
+  publisher: Nature Communications
+  date: '2026-05-25'
+  link: https://doi.org/hb5qkr
+  orcid: 0000-0001-6219-1322
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2139/ssrn.6721329
   title: "A Comprehensive Analysis of Global Dynamics and Bifurcation of a Kresling\
     \ Origami Structure\u200B"
