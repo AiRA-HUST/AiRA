@@ -1,12 +1,14 @@
-- title: DeepSNUPI
-  subtitle: DNA Origami Shape Prediction
+- title: DNA Origami Nanotechnology
+  subtitle: AI-Guided Design, Prediction, and Programmable Nanostructures
   group: featured
   image: images/DeepSNUPI_.png
-  link: projects/deepsnupi
-  description: A graph neural network approach for predicting DNA origami shapes, enabling rational design of complex nanostructures. Published in Nature Materials.
+  link: projects/dna-origami-nanotechnology
+  description: Developing AI-guided methods for DNA origami shape prediction, generative design, and programmable nanostructures, including publications in Nature Materials and Nature Communications.
   tags:
-    - graph neural network
-    - computational biology
+    - dna origami
+    - nanotechnology
+    - generative design
+    - machine learning
 
 - title: ADEM Framework
   subtitle: Adversarial Deep Energy Method

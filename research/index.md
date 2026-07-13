@@ -14,6 +14,8 @@ Our research aims to turn fundamental insights into tools and systems that serve
 
 ## Highlighted
 
+{% include citation.html lookup="De novo design of DNA origami with a generative diffusion model" style="rich" %}
+
 {% include citation.html lookup="Prediction of DNA origami shape using graph neural network" style="rich" %}
 
 {% include section.html %}

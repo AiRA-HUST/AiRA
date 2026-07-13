@@ -23,6 +23,7 @@ Our Origami-Inspired Technology project leverages the ancient art of paper foldi
 ## Key Research Areas
 
 - **Folding Mechanics**: Understanding the physics and mathematics of origami transformations
+- **AI-Driven Inverse Design**: Neural surrogate models and optimization methods for Kresling origami design
 - **Smart Materials**: Integration of responsive materials with origami structures
 - **Soft Robotics**: Application of origami principles to flexible robotic systems
 - **Deployable Architecture**: Large-scale structures that can be compactly stored and deployed
@@ -77,6 +78,7 @@ Our team actively presents research findings at international conferences, showc
 
 ## Publications
 
+- Vuong, T. T., Nguyen, D. T., Nguyen, N. T., Thai, P. T., & Truong-Quoc, C. (2026). **Gradient-Based Inverse Design of Kresling Origami via Neural Surrogate Modeling**. *Robotics and Mechatronics, Proceedings of ISRM 2026, Mechanisms and Machine Science, vol. 213*, 382-390. DOI: [10.1007/978-3-032-29469-2_39](https://doi.org/10.1007/978-3-032-29469-2_39)
 - Nhu, T. N., Truong-Quoc, C., & Thai Phuong, T. (2025). **Dynamic Behavior of Kresling Origami under Harmonic Excitation: A Five-Parameter Energy Framework**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0031](https://doi.org/10.15625/vap.2026.0031)
 
 ## Funding

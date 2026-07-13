@@ -27,6 +27,7 @@ Physics-Informed Neural Networks (PINNs) represent a revolutionary approach that
 - **Forward Problem Solving**: Heat transfer, fluid dynamics, structural mechanics, and electromagnetic simulations
 - **Inverse Problem Applications**: Parameter estimation, material property identification, and boundary condition reconstruction
 - **Advanced PINN Architectures**: Multi-scale PINN, adaptive loss weighting, and domain decomposition methods
+- **Deep Energy Methods**: Variational and adversarial learning frameworks for computational mechanics problems
 - **Uncertainty Quantification**: Incorporating uncertainty analysis in physics-informed neural network predictions
 
 ## Team Members
@@ -52,6 +53,12 @@ Physics-Informed Neural Networks (PINNs) represent a revolutionary approach that
 - Integration with experimental validation and real-world applications
 - Applications in climate modeling, materials science, and energy systems
 - Collaboration with industry partners for practical implementations
+
+## Publications
+
+- Lee, S.W.*, Truong-Quoc, C.*, Ro, Y., Kim, D.N. "Adversarial deep energy method for solving saddle point problems involving dielectric elastomers." *Computer Methods in Applied Mechanics and Engineering* (2024). [DOI: 10.1016/j.cma.2024.116825](https://doi.org/10.1016/j.cma.2024.116825)
+
+  *Joint first authors
 
 ## Funding
 

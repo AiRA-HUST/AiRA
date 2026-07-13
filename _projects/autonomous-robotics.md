@@ -43,6 +43,7 @@ These tracks jointly support our long-term goal of **Trustworthy Embodied Genera
 
 - **Embodied Intelligence Models**: Multimodal perception and policy learning for generalizable robot behaviour  
 - **Learning-Enhanced Safe Control**: Combining classical control with learning-based components under safety constraints  
+- **Diffusion-Based Trajectory Generation**: Learning smooth, robust trajectories for multi-agent formation navigation
 - **Sim-to-Real & Cross-Embodiment Transfer**: Policies that generalize across different robot platforms and environments  
 - **World Models & Long-Horizon Planning**: Modeling dynamics and semantics to support predictive, explainable behaviour  
 - **Human-Robot Interaction**: Intuitive interfaces for collaboration with non-expert users
@@ -99,4 +100,5 @@ Our research is deployed on a diverse set of platforms:
 
 ## Publications
 
+- Do, H. Q., Truong-Quoc, C., & Tran, Q. V. (2026). **Multi-agent Formation Navigation Using Diffusion-Based Trajectory Generation: Experimental Comparisons**. *Robotics and Mechatronics, Proceedings of ISRM 2026, Mechanisms and Machine Science, vol. 213*, 188-195. DOI: [10.1007/978-3-032-29469-2_19](https://doi.org/10.1007/978-3-032-29469-2_19)
 - Ngoc, V. L. N., Truong-Quoc, C., & Nguyen-Thai, M.-T. (2025). **Exploring PD Control Effects on the Basins of Attraction in Segway Dynamics**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0011](https://doi.org/10.15625/vap.2026.0011)

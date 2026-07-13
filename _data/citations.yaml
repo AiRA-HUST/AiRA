@@ -1,5 +1,50 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/978-3-032-29469-2_19
+  title: "Multi-agent Formation Navigation Using Diffusion-Based Trajectory Generation: Experimental Comparisons"
+  authors:
+  - Hieu Quang Do
+  - Chien Truong-Quoc
+  - Quoc Van Tran
+  publisher: Robotics and Mechatronics, ISRM 2026
+  date: '2026-07-03'
+  link: https://doi.org/10.1007/978-3-032-29469-2_19
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+  - isrm2026
+- id: doi:10.1007/978-3-032-29469-2_23
+  title: Motion-Primitive Navigation of a Flix-Walker Under Payload and Friction Variations
+  authors:
+  - Minh Vuong-Duc
+  - Trong Giap Nguyen
+  - Minh-Tuan Nguyen-Thai
+  - Chien Truong-Quoc
+  publisher: Robotics and Mechatronics, ISRM 2026
+  date: '2026-07-03'
+  link: https://doi.org/10.1007/978-3-032-29469-2_23
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+  - isrm2026
+- id: doi:10.1007/978-3-032-29469-2_39
+  title: Gradient-Based Inverse Design of Kresling Origami via Neural Surrogate Modeling
+  authors:
+  - Thanh Trung Vuong
+  - Duc Thu Nguyen
+  - Nhu Thinh Nguyen
+  - Phuong Thao Thai
+  - Chien Truong-Quoc
+  publisher: Robotics and Mechatronics, ISRM 2026
+  date: '2026-07-03'
+  link: https://doi.org/10.1007/978-3-032-29469-2_39
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - conference proceeding
+  - isrm2026
 - id: doi:10.1038/s41467-026-73578-z
   title: De novo design of DNA origami with a generative diffusion model
   authors:
@@ -12,10 +57,15 @@
   - Do-Nyun Kim
   publisher: Nature Communications
   date: '2026-05-25'
-  link: https://doi.org/hb5qkr
+  link: https://doi.org/10.1038/s41467-026-73578-z
   orcid: 0000-0001-6219-1322
   plugin: orcid.py
   file: orcid.yaml
+  image: images/genSNUPI.png
+  tags:
+  - journal article
+  - dna origami
+  - generative design
 - id: doi:10.2139/ssrn.6721329
   title: "A Comprehensive Analysis of Global Dynamics and Bifurcation of a Kresling\
     \ Origami Structure\u200B"

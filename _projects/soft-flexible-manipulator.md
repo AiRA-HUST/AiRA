@@ -24,6 +24,7 @@ The Soft & Flexible Robotics project focuses on advancing compliant mechanism de
 
 - **Compliant Mechanism Design**: Engineering structures that provide desired flexibility and compliance
 - **Soft Actuation**: Development of actuators that provide smooth, safe motion
+- **Motion-Primitive Navigation**: Primitive-based planning and control for compliant and vibration-driven robots
 - **Adaptive Control**: Control algorithms that work with compliant mechanical systems
 - **Sensing Integration**: Incorporating tactile and force sensing for intelligent manipulation
 
@@ -65,6 +66,7 @@ The Soft & Flexible Robotics project focuses on advancing compliant mechanism de
 
 ## Publications
 
+- Vuong-Duc, M., Nguyen, T. G., Nguyen-Thai, M.-T., & Truong-Quoc, C. (2026). **Motion-Primitive Navigation of a Flix-Walker Under Payload and Friction Variations**. *Robotics and Mechatronics, Proceedings of ISRM 2026, Mechanisms and Machine Science, vol. 213*, 220-228. DOI: [10.1007/978-3-032-29469-2_23](https://doi.org/10.1007/978-3-032-29469-2_23)
 - Trong, G. N., Truong-Quoc, C., & Nguyen Quang, H. (2025). **High-Fidelity Modeling of the Flexible Inverted Pendulum via Pseudo-Rigid-Body (PRB)**. *Proceedings of the 8th International Conference on Engineering Mechanics and Automation (ICEMA 2025), Hanoi, November 14-15, 2025*. DOI: [10.15625/vap.2026.0008](https://doi.org/10.15625/vap.2026.0008)
 
 ## Funding

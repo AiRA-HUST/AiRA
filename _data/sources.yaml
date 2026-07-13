@@ -1,3 +1,60 @@
+- id: doi:10.1038/s41467-026-73578-z
+  title: De novo design of DNA origami with a generative diffusion model
+  authors:
+  - Chien Truong-Quoc
+  - Kyounghwa Jeon
+  - Jinho Kim
+  - Seo Hyun Kwon
+  - Dongsik Seo
+  - Chanseok Lee
+  - Do-Nyun Kim
+  publisher: Nature Communications
+  date: '2026-05-25'
+  link: https://doi.org/10.1038/s41467-026-73578-z
+  image: images/genSNUPI.png
+  tags:
+  - journal article
+  - dna origami
+  - generative design
+- id: doi:10.1007/978-3-032-29469-2_19
+  title: "Multi-agent Formation Navigation Using Diffusion-Based Trajectory Generation: Experimental Comparisons"
+  authors:
+  - Hieu Quang Do
+  - Chien Truong-Quoc
+  - Quoc Van Tran
+  publisher: Robotics and Mechatronics, ISRM 2026
+  date: '2026-07-03'
+  link: https://doi.org/10.1007/978-3-032-29469-2_19
+  tags:
+  - conference proceeding
+  - isrm2026
+- id: doi:10.1007/978-3-032-29469-2_23
+  title: Motion-Primitive Navigation of a Flix-Walker Under Payload and Friction Variations
+  authors:
+  - Minh Vuong-Duc
+  - Trong Giap Nguyen
+  - Minh-Tuan Nguyen-Thai
+  - Chien Truong-Quoc
+  publisher: Robotics and Mechatronics, ISRM 2026
+  date: '2026-07-03'
+  link: https://doi.org/10.1007/978-3-032-29469-2_23
+  tags:
+  - conference proceeding
+  - isrm2026
+- id: doi:10.1007/978-3-032-29469-2_39
+  title: Gradient-Based Inverse Design of Kresling Origami via Neural Surrogate Modeling
+  authors:
+  - Thanh Trung Vuong
+  - Duc Thu Nguyen
+  - Nhu Thinh Nguyen
+  - Phuong Thao Thai
+  - Chien Truong-Quoc
+  publisher: Robotics and Mechatronics, ISRM 2026
+  date: '2026-07-03'
+  link: https://doi.org/10.1007/978-3-032-29469-2_39
+  tags:
+  - conference proceeding
+  - isrm2026
 - id: doi:10.1038/s41563-024-01846-8
   title: Prediction of DNA origami shape using graph neural network
   authors:
