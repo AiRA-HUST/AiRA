@@ -146,6 +146,32 @@
   file: sources.yaml
   tags:
   - journal article
+- title: "Whole-Body Prediction From Sparse Labels: Fixed Geometric Decoders and the\
+    \ Prediction\u2013Planning Gap"
+  authors:
+  - Chien Truong-Quoc*
+  - Tat Hoan Nguyen Thai
+  - (* indicates corresponding author)
+  publisher: Submitted
+  date: '2026-11-27'
+  tags:
+  - submitted
+  plugin: sources.py
+  file: sources.yaml
+- title: "Multiple Kresling origami designs for one target energy curve: inverse design\
+    \ with a multi-branch physics-informed neural network"
+  authors:
+  - Thinh Nguyen-Nhu
+  - Sy-Ngoc Nguyen
+  - Phuong Thao Thai*
+  - Chien Truong-Quoc*
+  - (* indicates corresponding authors)
+  publisher: Submitted
+  date: '2026-11-27'
+  tags:
+  - submitted
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-032-29469-2_19
   title: "Multi-agent Formation Navigation Using Diffusion-Based Trajectory Generation:\
     \ Experimental Comparisons"
