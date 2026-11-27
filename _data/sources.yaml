@@ -1,3 +1,23 @@
+- title: "Whole-Body Prediction From Sparse Labels: Fixed Geometric Decoders and the Prediction–Planning Gap"
+  authors:
+  - Chien Truong-Quoc*
+  - Tat Hoan Nguyen Thai
+  - (* indicates corresponding author)
+  publisher: Submitted
+  date: '2026-11-27'
+  tags:
+  - submitted
+- title: "Multiple Kresling origami designs for one target energy curve: inverse design with a multi-branch physics-informed neural network"
+  authors:
+  - Thinh Nguyen-Nhu
+  - Sy-Ngoc Nguyen
+  - Phuong Thao Thai*
+  - Chien Truong-Quoc*
+  - (* indicates corresponding authors)
+  publisher: Submitted
+  date: '2026-11-27'
+  tags:
+  - submitted
 - id: doi:10.1038/s41467-026-73578-z
   title: De novo design of DNA origami with a generative diffusion model
   authors:

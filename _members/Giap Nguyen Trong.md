@@ -2,7 +2,7 @@
 name: "Giap Nguyen Trong"
 slug: giap-nguyen-trong
 image: "images/GiapNT.jpg"
-role: master-student
+role: undergrad
 affiliation: "Department of Mechatronics, School of Mechanical Engineering, Hanoi University of Science and Technology"
 aliases:
   - "Giap Nguyen Trong"
@@ -11,7 +11,7 @@ links:
   email: "giap.nt226191@sis.hust.edu.vn"
 ---
 
-Nguyen Trong Giap is a Master's student in the Department of Mechatronics at the School of Mechanical Engineering, Hanoi University of Science and Technology. He is actively involved in research activities at the AiRA Laboratory, specializing in soft and flexible robotics systems with a focus on AI-enhanced modeling and control.
+Nguyen Trong Giap is a fifth-year undergraduate student in the Department of Mechatronics at the School of Mechanical Engineering, Hanoi University of Science and Technology. He is actively involved in research activities at the AiRA Laboratory, specializing in soft and flexible robotics systems with a focus on AI-enhanced modeling and control.
 
 His research interests center on continuum robotics, flexible inverted pendulum systems, and other soft robotic mechanisms that exhibit complex nonlinear dynamics. Giap is particularly focused on leveraging artificial intelligence to advance the modeling of these flexible systems, developing novel approaches that can capture their intricate behaviors more accurately than traditional methods.
 
